@@ -1,10 +1,11 @@
-## $Id: Makefile.am,v 1.6 2006-04-20 12:46:32 adam Exp $
+## $Id: Makefile.am,v 1.7 2006-04-20 13:11:53 adam Exp $
 
 commondir=$(datadir)/doc/@PACKAGE@/common
 
 common_DATA = style1.css id.png
 
 SUPPORTFILES = \
+ xml.dcl \
  id.eps \
  ref2dbinc.xsl \
  html.dsl html.dsl.in \

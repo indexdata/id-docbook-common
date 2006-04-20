@@ -1,4 +1,4 @@
-## $Id: Makefile.am,v 1.4 2006-04-20 12:10:50 adam Exp $
+## $Id: Makefile.am,v 1.5 2006-04-20 12:45:44 adam Exp $
 
 commondir=$(datadir)/doc/@PACKAGE@/common
 
@@ -13,3 +13,4 @@ SUPPORTFILES = \
  print.dsl print.dsl.in 
 
 EXTRA_DIST = $(SUPPORTFILES) $(common_DATA) README
+

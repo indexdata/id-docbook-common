@@ -3,7 +3,7 @@
   CDATA DSSSL>
 ]>
 <!--
-  $Id: html.dsl.in,v 1.1 2006-04-20 09:43:25 adam Exp $
+  $Id: html.dsl.in,v 1.2 2006-04-20 10:05:31 adam Exp $
 -->
 <style-sheet>
 <style-specification use="docbook">
@@ -12,7 +12,7 @@
 (define %use-id-as-filename% #t)
 (define %output-dir% "html")
 (define %html-ext% ".html")
-(define %stylesheet% "style1.css")
+(define %stylesheet% "common/style1.css")
 
 </style-specification-body>
 </style-specification>

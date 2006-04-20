@@ -4,7 +4,7 @@
 <xsl:import href="@XSL_DIR@/htmlhelp/htmlhelp.xsl"/>
 
 <xsl:template name="body.attributes">
-   <link rel="stylesheet" type="text/css" href="style1.css"/>
+   <link rel="stylesheet" type="text/css" href="common/style1.css"/>
 </xsl:template>
 <xsl:variable name="suppress.navigation">0</xsl:variable>
 <xsl:variable name="use.id.as.filename">1</xsl:variable>

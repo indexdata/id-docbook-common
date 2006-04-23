@@ -1,0 +1,57 @@
+<!-- $Id: common.ent,v 1.1 2006-04-23 19:07:45 adam Exp $ -->
+
+<!-- Index Data software -->
+<!ENTITY url.indexdata "http://www.indexdata.com/">
+<!ENTITY url.yaz "http://www.indexdata.com/yaz/">
+<!ENTITY url.yazplusplus "http://www.indexdata.com/yazplusplus/">
+<!ENTITY url.yazproxy "http://www.indexdata.com/yazproxy/">
+<!ENTITY url.idzebra "http://www.indexdata.com/zebra/">
+<!ENTITY url.metaproxy "http://www.indexdata.com/metaproxy/">
+
+<!-- Specifications and Standards -->
+<!ENTITY url.w3c "http://www.w3.org/">
+<!ENTITY url.xml "http://www.w3.org/XML/">
+<!ENTITY url.sru "http://www.loc.gov/standards/sru/">
+<!ENTITY url.srw "http://www.loc.gov/standards/sru/srw/">
+<!ENTITY url.soap "http://www.w3.org/TR/soap/">
+<!ENTITY url.z39.50 "http://www.loc.gov/z3950/agency/">
+<!ENTITY url.z39.50.doc "http://www.loc.gov/z3950/agency/markup/toc.html">
+<!ENTITY url.z39.50.asn.1 "http://www.loc.gov/z3950/agency/asn1.html">
+<!ENTITY url.z39.50.diagnostics "http://www.loc.gov/z3950/agency/defns/bib1diag.html">
+<!ENTITY url.cql "http://www.loc.gov/standards/sru/cql/">
+<!ENTITY url.zoom "http://zoom.z3950.org/">
+<!ENTITY url.marc21 "http://www.loc.gov/marc/">
+<!ENTITY url.marc8 "http://www.loc.gov/marc/specifications/speccharmarc8.html">
+<!ENTITY url.marcxml "http://www.loc.gov/standards/marcxml/">
+<!ENTITY url.ill "http://www.nlc-bnc.ca/iso/ill/">
+<!ENTITY url.ber.over.tcpip "http://www.faqs.org/rfcs/rfc1729.html">
+<!ENTITY url.http "http://www.w3.org/Protocols/">
+<!ENTITY url.http.1.1 "http://www.w3.org/Protocols/rfc2616/rfc2616.html">
+
+<!-- External libraries + tools -->
+<!ENTITY url.bison "http://www.gnu.org/software/bison/">
+<!ENTITY url.libxml2 "http://xmlsoft.org/">
+<!ENTITY url.libxslt "http://xmlsoft.org/XSLT/">
+<!ENTITY url.libxml2.win32.download "http://www.zlatkovic.com/libxml.en.html">
+<!ENTITY url.autoconf "http://www.gnu.org/software/autoconf/">
+<!ENTITY url.automake "http://www.gnu.org/software/automake/">
+<!ENTITY url.libtool "http://www.gnu.org/software/libtool/">
+<!ENTITY url.libiconv "http://www.gnu.org/software/libiconv/">
+<!ENTITY url.tcl "http://www.tcl.tk/">
+<!ENTITY url.perl "http://www.perl.com/">
+<!ENTITY url.gcc "http://gcc.gnu.org/">
+<!ENTITY url.vstudio "http://msdn.microsoft.com/vstudio/">
+
+<!-- Operating Systems -->
+<!ENTITY url.linux.kernel "http://www.kernel.org/">
+<!ENTITY url.debian "http://www.debian.org/">
+<!ENTITY url.redhat "http://www.redhat.com/">
+<!ENTITY url.gentoo "http://www.gentoo.org/">
+<!ENTITY url.freebsd "http://www.freebsd.org/">
+<!ENTITY url.macosx "http://www.apple.com/macosx/">
+<!ENTITY url.solaris "http://www.sun.com/software/solaris/">
+<!ENTITY url.windows2000 "http://www.microsoft.com/windows2000/">
+<!ENTITY url.windows2003server "http://www.microsoft.com/windowsserver2003/default.mspx">
+<!ENTITY url.netbsd "http://www.netbsd.org/">
+<!ENTITY url.openbsd "http://www.openbsd.org/">
+<!ENTITY url.ubunto "http://www.ubuntu.com/">

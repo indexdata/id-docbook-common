@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.3 2006-04-24 09:13:49 adam Exp $ -->
+<!-- $Id: common.ent,v 1.4 2006-04-26 12:16:46 adam Exp $ -->
 
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
@@ -8,6 +8,8 @@
 <!ENTITY url.yaz.mailinglist	
 	"http://lists.indexdata.dk/cgi-bin/mailman/listinfo/yazlist">
 <!ENTITY url.yaz.mail "mailto:yaz-help@indexdata.dk">
+<!ENTITY url.yaz.comstack.addresses "http://www.indexdata.dk/yaz/doc/comstack.addresses.tkl">
+<!ENTITY url.yaz.cql2pqf "http://www.indexdata.dk/yaz/doc/tools.tkl#tools.cql.pqf">
 <!ENTITY url.yazplusplus "http://www.indexdata.com/yazplusplus/">
 <!ENTITY url.yazproxy "http://www.indexdata.com/yazproxy/">
 <!ENTITY url.idzebra "http://www.indexdata.com/zebra/">
@@ -18,6 +20,7 @@
 <!-- Specifications and Standards -->
 <!ENTITY url.w3c "http://www.w3.org/">
 <!ENTITY url.xml "http://www.w3.org/XML/">
+<!ENTITY url.xslt "http://www.w3.org/TR/xslt">
 <!ENTITY url.sru "http://www.loc.gov/standards/sru/">
 <!ENTITY url.sru.diagnostics
 	"http://www.loc.gov/standards/sru/diagnostics.html">
@@ -55,6 +58,7 @@
 <!-- External libraries + tools -->
 <!ENTITY url.apache "http://httpd.apache.org/">
 <!ENTITY url.apache.directive.proxypass "http://httpd.apache.org/docs/mod/mod_proxy.html#proxypass">
+<!ENTITY url.bash "http://www.gnu.org/software/bash/bash.html">
 <!ENTITY url.bison "http://www.gnu.org/software/bison/">
 <!ENTITY url.libxml2 "http://xmlsoft.org/">
 <!ENTITY url.libxml2.api "http://www.xmlsoft.org/html/index.html">
@@ -88,3 +92,4 @@
 <!ENTITY url.netbsd "http://www.netbsd.org/">
 <!ENTITY url.openbsd "http://www.openbsd.org/">
 <!ENTITY url.ubunto "http://www.ubuntu.com/">
+<!ENTITY url.usemarcon "http://www.bl.uk/services/bibliographic/usemarcon.html">

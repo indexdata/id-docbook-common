@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.5 2006-04-27 09:46:28 adam Exp $ -->
+<!-- $Id: common.ent,v 1.6 2006-04-27 13:03:49 adam Exp $ -->
 
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
@@ -48,6 +48,7 @@
 <!ENTITY url.cql.intro "http://zing.z3950.org/cql/intro.html">
 <!ENTITY url.xcql "http://www.loc.gov/standards/sru/xml-files/srw-types.xsd">
 <!ENTITY url.zoom "http://zoom.z3950.org/">
+<!ENTITY url.zoom.bind.cplusplus "http://zoom.z3950.org/bind/cplusplus/">
 <!ENTITY url.marc21 "http://www.loc.gov/marc/">
 <!ENTITY url.marc8 "http://www.loc.gov/marc/specifications/speccharmarc8.html">
 <!ENTITY url.marcxml "http://www.loc.gov/standards/marcxml/">

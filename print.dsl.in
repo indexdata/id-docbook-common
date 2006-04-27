@@ -3,11 +3,16 @@
   CDATA DSSSL>
 ]>
 <!--
-  $Id: print.dsl.in,v 1.1 2006-04-20 09:43:25 adam Exp $
+  $Id: print.dsl.in,v 1.2 2006-04-27 16:01:05 adam Exp $
 -->
 <style-sheet>
 <style-specification use="docbook">
 <style-specification-body>
+
+(define preferred-mediaobject-notations
+  (list "PDF" "JPG" "JPEG" "PNG" "linespecific"))
+(define preferred-mediaobject-extensions
+  (list "pdf" "jpg" "jpeg" "png"))
 
 </style-specification-body>
 </style-specification>

@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.6 2006-04-27 13:03:49 adam Exp $ -->
+<!-- $Id: common.ent,v 1.7 2006-04-27 19:49:07 adam Exp $ -->
 
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
@@ -6,6 +6,7 @@
 <!ENTITY url.yaz "http://www.indexdata.com/yaz/">
 <!ENTITY url.yaz.download "http://ftp.indexdata.com/pub/yaz/">
 <!ENTITY url.yaz.download.win32 "http://ftp.indexdata.com/pub/yaz/win32/">
+<!ENTITY url.yaz.download.debian "http://ftp.indexdata.com/pub/yaz/debian/">
 <!ENTITY url.yaz.mailinglist	
 	"http://lists.indexdata.dk/cgi-bin/mailman/listinfo/yazlist">
 <!ENTITY url.yaz.mail "mailto:yaz-help@indexdata.dk">
@@ -94,5 +95,5 @@
 <!ENTITY url.windows2003server "http://www.microsoft.com/windowsserver2003/default.mspx">
 <!ENTITY url.netbsd "http://www.netbsd.org/">
 <!ENTITY url.openbsd "http://www.openbsd.org/">
-<!ENTITY url.ubunto "http://www.ubuntu.com/">
+<!ENTITY url.ubuntu "http://www.ubuntu.com/">
 <!ENTITY url.usemarcon "http://www.bl.uk/services/bibliographic/usemarcon.html">

@@ -1,8 +1,9 @@
-<!-- $Id: common.ent,v 1.7 2006-04-27 19:49:07 adam Exp $ -->
+<!-- $Id: common.ent,v 1.8 2006-04-30 12:53:14 adam Exp $ -->
 
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
 <!ENTITY url.snapshot.download "http://ftp.indexdata.com/pub/snapshot/">
+
 <!ENTITY url.yaz "http://www.indexdata.com/yaz/">
 <!ENTITY url.yaz.download "http://ftp.indexdata.com/pub/yaz/">
 <!ENTITY url.yaz.download.win32 "http://ftp.indexdata.com/pub/yaz/win32/">
@@ -11,7 +12,15 @@
 	"http://lists.indexdata.dk/cgi-bin/mailman/listinfo/yazlist">
 <!ENTITY url.yaz.mail "mailto:yaz-help@indexdata.dk">
 <!ENTITY url.yaz.comstack.addresses "http://www.indexdata.dk/yaz/doc/comstack.addresses.tkl">
+<!ENTITY url.yaz.zoom "http://www.indexdata.dk/yaz/doc/zoom.tkl">
+<!ENTITY url.yaz.zoom.connections "http://www.indexdata.dk/yaz/doc/zoom.tkl#zoom.connections">
+<!ENTITY url.yaz.zoom.query "http://www.indexdata.dk/yaz/doc/zoom.query.tkl">
+<!ENTITY url.yaz.zoom.resultsets "http://www.indexdata.dk/yaz/doc/zoom.resultsets.tkl">
+<!ENTITY url.yaz.zoom.records "http://www.indexdata.dk/yaz/doc/zoom.records.tkl">
+<!ENTITY url.yaz.pqf "http://www.indexdata.dk/yaz/doc/tools.tkl#PQF">
+<!ENTITY url.yaz.ccl "http://www.indexdata.dk/yaz/doc/tools.tkl#CCL">
 <!ENTITY url.yaz.cql2pqf "http://www.indexdata.dk/yaz/doc/tools.tkl#tools.cql.pqf">
+
 <!ENTITY url.yazplusplus "http://www.indexdata.com/yazplusplus/">
 <!ENTITY url.yazproxy "http://www.indexdata.com/yazproxy/">
 <!ENTITY url.idzebra "http://www.indexdata.com/zebra/">
@@ -49,6 +58,8 @@
 <!ENTITY url.cql.intro "http://zing.z3950.org/cql/intro.html">
 <!ENTITY url.xcql "http://www.loc.gov/standards/sru/xml-files/srw-types.xsd">
 <!ENTITY url.zoom "http://zoom.z3950.org/">
+<!ENTITY url.zoom.api "http://zoom.z3950.org/api/">
+<!ENTITY url.zoom.bind "http://zoom.z3950.org/bindings/">
 <!ENTITY url.zoom.bind.cplusplus "http://zoom.z3950.org/bind/cplusplus/">
 <!ENTITY url.marc21 "http://www.loc.gov/marc/">
 <!ENTITY url.marc8 "http://www.loc.gov/marc/specifications/speccharmarc8.html">

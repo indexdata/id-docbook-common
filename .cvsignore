@@ -4,3 +4,4 @@ html.dsl
 html.xsl
 print.dsl
 tkl.xsl
+man.xsl

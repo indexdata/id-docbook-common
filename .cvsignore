@@ -1,7 +1,3 @@
 Makefile
 Makefile.in
-html.dsl
-html.xsl
 print.dsl
-tkl.xsl
-man.xsl

@@ -1,4 +1,4 @@
-## $Id: Makefile.am,v 1.11 2006-05-24 12:46:39 adam Exp $
+## $Id: Makefile.am,v 1.12 2006-06-02 10:50:28 adam Exp $
 
 commondir=$(datadir)/doc/@PACKAGE@/common
 
@@ -13,7 +13,10 @@ SUPPORTFILES = \
  html.xsl.in \
  tkl.xsl.in \
  print.dsl.in \
- man.xsl.in
+ man.xsl.in \
+ id.htmlhelp.xsl \
+ id.man.xsl \
+ id.tkl.xsl 
 
 EXTRA_DIST = $(SUPPORTFILES) $(common_DATA) README
 

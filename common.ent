@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.9 2006-06-06 08:55:22 adam Exp $ -->
+<!-- $Id: common.ent,v 1.10 2006-06-13 13:45:08 marc Exp $ -->
 
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
@@ -45,6 +45,7 @@
 <!ENTITY url.z39.50.explain "http://www.loc.gov/z3950/agency/markup/07.html">
 <!ENTITY url.z39.50.diagnostics "http://www.loc.gov/z3950/agency/defns/bib1diag.html">
 <!ENTITY url.z39.50.attset.bib1 "http://www.loc.gov/z3950/agency/defns/bib1.html">
+<!ENTITY url.z39.50.attset.bib1.1995 "http://www.loc.gov/z3950/agency/bib1.html">
 <!ENTITY url.z39.50.charneg "http://www.loc.gov/z3950/agency/defns/charneg-3.html">
 <!ENTITY url.z39.50.proximity "http://www.loc.gov/z3950/agency/markup/09.html#3.7.2">
 <!ENTITY url.z39.50.proximity.asn1 

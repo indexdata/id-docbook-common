@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.10 2006-06-13 13:45:08 marc Exp $ -->
+<!-- $Id: common.ent,v 1.11 2006-09-03 21:30:00 adam Exp $ -->
 
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
@@ -81,10 +81,12 @@
 <!ENTITY url.libxml2.api.tree "http://www.xmlsoft.org/html/libxml-tree.html">
 <!ENTITY url.libxslt "http://xmlsoft.org/XSLT/">
 <!ENTITY url.libxml2.download.win32 "http://www.zlatkovic.com/libxml.en.html">
+<!ENTITY url.expat "http://expat.sourceforge.net/">
 <!ENTITY url.autoconf "http://www.gnu.org/software/autoconf/">
 <!ENTITY url.automake "http://www.gnu.org/software/automake/">
 <!ENTITY url.libtool "http://www.gnu.org/software/libtool/">
 <!ENTITY url.libiconv "http://www.gnu.org/software/libiconv/">
+<!ENTITY url.bzip2 "http://sources.redat.com/bzip2/">
 <!ENTITY url.tcl "http://www.tcl.tk/">
 <!ENTITY url.perl "http://www.perl.com/">
 <!ENTITY url.gcc "http://gcc.gnu.org/">
@@ -102,6 +104,7 @@
 <!ENTITY url.redhat "http://www.redhat.com/">
 <!ENTITY url.gentoo "http://www.gentoo.org/">
 <!ENTITY url.freebsd "http://www.freebsd.org/">
+<!ENTITY url.suse "http://www.novell.com/linux/">
 <!ENTITY url.macosx "http://www.apple.com/macosx/">
 <!ENTITY url.solaris "http://www.sun.com/software/solaris/">
 <!ENTITY url.windows2000 "http://www.microsoft.com/windows2000/">
@@ -109,4 +112,5 @@
 <!ENTITY url.netbsd "http://www.netbsd.org/">
 <!ENTITY url.openbsd "http://www.openbsd.org/">
 <!ENTITY url.ubuntu "http://www.ubuntu.com/">
+<!ENTITY url.docbook "http://docbook.org/">
 <!ENTITY url.usemarcon "http://www.bl.uk/services/bibliographic/usemarcon.html">

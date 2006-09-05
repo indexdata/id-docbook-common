@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.11 2006-09-03 21:30:00 adam Exp $ -->
+<!-- $Id: common.ent,v 1.12 2006-09-05 11:25:06 adam Exp $ -->
 
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
@@ -33,6 +33,12 @@
 <!ENTITY url.xml "http://www.w3.org/XML/">
 <!ENTITY url.xslt "http://www.w3.org/TR/xslt">
 <!ENTITY url.sru "http://www.loc.gov/standards/sru/">
+<!ENTITY url.sru.searchretrieve "http://www.loc.gov/standards/sru/sru-spec.html">
+<!ENTITY url.zeerex.explain "http://explain.z3950.org/">
+<!ENTITY url.sru.explain "http://www.loc.gov/standards/sru/explain/">
+<!ENTITY url.sru.scan "http://www.loc.gov/standards/sru/scan/">
+<!ENTITY url.sru.sort "http://www.loc.gov/standards/sru/scan/">
+
 <!ENTITY url.sru.diagnostics
 	"http://www.loc.gov/standards/sru/diagnostics.html">
 <!ENTITY url.sru.diagnostics.list
@@ -58,6 +64,7 @@
 
 <!ENTITY url.cql "http://www.loc.gov/standards/sru/cql/">
 <!ENTITY url.cql.intro "http://zing.z3950.org/cql/intro.html">
+<!ENTITY url.cql.sorting "http://zing.z3950.org/cql/sorting.html">
 <!ENTITY url.xcql "http://www.loc.gov/standards/sru/xml-files/srw-types.xsd">
 <!ENTITY url.zoom "http://zoom.z3950.org/">
 <!ENTITY url.zoom.api "http://zoom.z3950.org/api/">

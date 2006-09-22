@@ -1,8 +1,10 @@
-<!-- $Id: common.ent,v 1.12 2006-09-05 11:25:06 adam Exp $ -->
+<!-- $Id: common.ent,v 1.13 2006-09-22 11:15:22 adam Exp $ -->
 
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
+<!ENTITY url.indexdata.support "http://www.indexdata.com/support/">
 <!ENTITY url.snapshot.download "http://ftp.indexdata.com/pub/snapshot/">
+
 
 <!ENTITY url.yaz "http://www.indexdata.com/yaz/">
 <!ENTITY url.yaz.download "http://ftp.indexdata.com/pub/yaz/">
@@ -26,6 +28,10 @@
 <!ENTITY url.idzebra "http://www.indexdata.com/zebra/">
 <!ENTITY url.idzebra.mailinglist
 	"http://lists.indexdata.dk/cgi-bin/mailman/listinfo/zebralist">
+<!ENTITY url.idzebra.download "http://ftp.indexdata.com/pub/zebra/">
+<!ENTITY url.idzebra.download.win32 "http://ftp.indexdata.com/pub/zebra/win32/">
+<!ENTITY url.idzebra.download.debian "http://ftp.indexdata.com/pub/zebra/debian/">
+
 <!ENTITY url.metaproxy "http://www.indexdata.com/metaproxy/">
 
 <!-- Specifications and Standards -->

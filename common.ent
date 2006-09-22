@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.13 2006-09-22 11:15:22 adam Exp $ -->
+<!-- $Id: common.ent,v 1.14 2006-09-22 12:17:12 adam Exp $ -->
 
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
@@ -21,6 +21,7 @@
 <!ENTITY url.yaz.zoom.records "http://www.indexdata.dk/yaz/doc/zoom.records.tkl">
 <!ENTITY url.yaz.pqf "http://www.indexdata.dk/yaz/doc/tools.tkl#PQF">
 <!ENTITY url.yaz.ccl "http://www.indexdata.dk/yaz/doc/tools.tkl#CCL">
+<!ENTITY url.yaz.cql "http://www.indexdata.dk/yaz/doc/tools.tkl#tools.cql">
 <!ENTITY url.yaz.cql2pqf "http://www.indexdata.dk/yaz/doc/tools.tkl#tools.cql.pqf">
 
 <!ENTITY url.yazplusplus "http://www.indexdata.com/yazplusplus/">
@@ -37,6 +38,7 @@
 <!-- Specifications and Standards -->
 <!ENTITY url.w3c "http://www.w3.org/">
 <!ENTITY url.xml "http://www.w3.org/XML/">
+<!ENTITY url.xpath "http://www.w3.org/TR/xpath">
 <!ENTITY url.xslt "http://www.w3.org/TR/xslt">
 <!ENTITY url.sru "http://www.loc.gov/standards/sru/">
 <!ENTITY url.sru.searchretrieve "http://www.loc.gov/standards/sru/sru-spec.html">
@@ -57,6 +59,7 @@
 <!ENTITY url.z39.50.explain "http://www.loc.gov/z3950/agency/markup/07.html">
 <!ENTITY url.z39.50.diagnostics "http://www.loc.gov/z3950/agency/defns/bib1diag.html">
 <!ENTITY url.z39.50.attset.bib1 "http://www.loc.gov/z3950/agency/defns/bib1.html">
+<!ENTITY url.z39.50.bib1.semantics "http://www.loc.gov/z3950/agency/bib1.html">
 <!ENTITY url.z39.50.attset.bib1.1995 "http://www.loc.gov/z3950/agency/bib1.html">
 <!ENTITY url.z39.50.charneg "http://www.loc.gov/z3950/agency/defns/charneg-3.html">
 <!ENTITY url.z39.50.proximity "http://www.loc.gov/z3950/agency/markup/09.html#3.7.2">

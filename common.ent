@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.14 2006-09-22 12:17:12 adam Exp $ -->
+<!-- $Id: common.ent,v 1.15 2006-12-13 09:40:33 adam Exp $ -->
 
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
@@ -130,3 +130,5 @@
 <!ENTITY url.ubuntu "http://www.ubuntu.com/">
 <!ENTITY url.docbook "http://docbook.org/">
 <!ENTITY url.usemarcon "http://www.bl.uk/services/bibliographic/usemarcon.html">
+<!ENTITY url.libpcap "http://www.tcpdump.org/">
+

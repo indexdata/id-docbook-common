@@ -1,5 +1,39 @@
-<!-- $Id: common.ent,v 1.16 2007-01-10 09:33:15 adam Exp $ -->
+<!-- $Id: common.ent,v 1.17 2007-02-02 09:24:40 marc Exp $ -->
 
+<!-- PERSON NAMES -->
+<!-- Index Data Staff -->
+<!ENTITY adam "<firstname>Adam </firstname><surname>Dickmeiss</surname>">
+<!ENTITY anders "<firstname>Anders </firstname><surname>Møller</surname>">
+<!ENTITY heikki "<firstname>Heikki </firstname><surname>Levanto</surname>">
+<!ENTITY marc "<firstname>Marc </firstname><surname>Cromme</surname>">
+<!ENTITY mike "<firstname>Mike </firstname><surname>Taylor</surname>">
+<!ENTITY quinn "<firstname>Sebastian </firstname><surname>Hammer</surname>">
+<!ENTITY sondberg "<firstname>Anders </firstname><surname>Sønderberg</surname>">
+
+<!-- CORORATION NAMES -->
+<!ENTITY indexdata "<corpname>Index Data ApS</corpname>">
+
+<!-- PRODUCT NAMES -->
+<!ENTITY metaproxy "<productname>Metaproxy</productname>">
+<!ENTITY yaz "<productname>YAZ</productname>">
+<!ENTITY yazpp "<productname>YazPP</productname>">
+<!ENTITY yazproxy "<productname>Yazproxy</productname>">
+<!ENTITY zebra "<productname>Zebra</productname>">
+<!ENTITY zebra13 "<productname>Zebra</productname> <productnumber>1.3</productnumber>">
+<!ENTITY zebra20 "<productname>Zebra</productname> <productnumber>2.0</productnumber>">
+
+<!-- ACRONYMES -->
+<!ENTITY z3950 "<acronym>Z39.50</acronym>">
+<!ENTITY sru "<acronym>SRU </acronym>">
+<!ENTITY sru_gps "<acronym>SRU GET/POST/SOAP</acronym>">
+<!ENTITY srw "<acronym>SRW</acronym>">
+<!ENTITY zoomnet "<acronym>ZOOM.NET</acronym>">
+<!ENTITY pqf "<acronym>PQF</acronym>">
+<!ENTITY rpn "<acronym>RPN</acronym>">
+<!ENTITY cql "<acronym>CQL</acronym>">
+
+
+<!-- URL's -->
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
 <!ENTITY url.indexdata.support "http://www.indexdata.com/support/">

@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.18 2007-02-02 09:58:40 marc Exp $ -->
+<!-- $Id: common.ent,v 1.19 2007-02-02 11:10:09 marc Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -23,20 +23,38 @@
 <!ENTITY zebra20 "<application>Zebra</application> <productnumber>2.0</productnumber>">
 
 <!-- ACRONYMES -->
-<!ENTITY z3950 "<acronym>Z39.50</acronym>">
-<!ENTITY sru "<acronym>SRU </acronym>">
-<!ENTITY sru_gps "<acronym>SRU GET/POST/SOAP</acronym>">
-<!ENTITY srw "<acronym>SRW</acronym>">
-<!ENTITY zoom "<acronym>ZOOM</acronym>">
-<!ENTITY zoomnet "<acronym>ZOOM.NET</acronym>">
-<!ENTITY xml "<acronym>XML</acronym>">
-<!ENTITY xslt "<acronym>XSLT</acronym>">
-<!ENTITY sgml "<acronym>SGML</acronym>">
-<!ENTITY marc "<acronym>MARC</acronym>">
-<!ENTITY pqf "<acronym>PQF</acronym>">
-<!ENTITY rpn "<acronym>RPN</acronym>">
+<!ENTITY ansi "<acronym>ANSI</acronym>">
+<!ENTITY api "<acronym>API</acronym>">
+<!ENTITY apt "<acronym>APT</acronym>">
+<!ENTITY bib1 "<acronym>BIB-1</acronym>">
 <!ENTITY cql "<acronym>CQL</acronym>">
 <!ENTITY dom "<acronym>DOM</acronym>">
+<!ENTITY get "<acronym>GET</acronym>">
+<!ENTITY grs1 "<acronym>GRS-1</acronym>">
+<!ENTITY idxpath "<acronym>IDXPATH</acronym>">
+<!ENTITY marc "<acronym>MARC</acronym>">
+<!ENTITY marcxml "<acronym>MARCXML</acronym>">
+<!ENTITY marc21 "<acronym>MARC21</acronym>">
+<!ENTITY oai "<acronym>OAI</acronym>">
+<!ENTITY php "<acronym>PHP</acronym>">
+<!ENTITY post "<acronym>POST</acronym>">
+<!ENTITY pqf "<acronym>PQF</acronym>">
+<!ENTITY pqn "<acronym>PQN</acronym>">
+<!ENTITY rest "<acronym>REST</acronym>">
+<!ENTITY rpn "<acronym>RPN</acronym>">
+<!ENTITY sgml "<acronym>SGML</acronym>">
+<!ENTITY soap "<acronym>SOAP</acronym>">
+<!ENTITY sru "<acronym>SRU</acronym>">
+<!ENTITY sru_gps "<acronym>SRU GET/POST/SOAP</acronym>">
+<!ENTITY srw "<acronym>SRW</acronym>">
+<!ENTITY sutrs "<acronym>SUTRS</acronym>">
+<!ENTITY usmarc "<acronym>USMARC</acronym>">
+<!ENTITY xml "<acronym>XML</acronym>">
+<!ENTITY xpath "<acronym>XPATH</acronym>">
+<!ENTITY xslt "<acronym>XSLT</acronym>">
+<!ENTITY z3950 "<acronym>Z39.50</acronym>">
+<!ENTITY zoom "<acronym>ZOOM</acronym>">
+<!ENTITY zoomnet "<acronym>ZOOM.NET</acronym>">
 
 
 <!-- URL's -->

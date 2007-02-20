@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.20 2007-02-17 13:43:57 adam Exp $ -->
+<!-- $Id: common.ent,v 1.21 2007-02-20 14:28:31 marc Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -29,6 +29,7 @@
 <!ENTITY bib1 "<acronym>BIB-1</acronym>">
 <!ENTITY cql "<acronym>CQL</acronym>">
 <!ENTITY dom "<acronym>DOM</acronym>">
+<!ENTITY exslt "<acronym>EXSLT</acronym>">
 <!ENTITY get "<acronym>GET</acronym>">
 <!ENTITY grs1 "<acronym>GRS-1</acronym>">
 <!ENTITY idxpath "<acronym>IDXPATH</acronym>">

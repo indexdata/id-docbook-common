@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.21 2007-02-20 14:28:31 marc Exp $ -->
+<!-- $Id: common.ent,v 1.22 2007-03-21 19:35:46 adam Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -80,8 +80,8 @@
 <!ENTITY url.yaz.zoom.records "http://www.indexdata.dk/yaz/doc/zoom.records.tkl">
 <!ENTITY url.yaz.pqf "http://www.indexdata.dk/yaz/doc/tools.tkl#PQF">
 <!ENTITY url.yaz.ccl "http://www.indexdata.dk/yaz/doc/tools.tkl#CCL">
-<!ENTITY url.yaz.cql "http://www.indexdata.dk/yaz/doc/tools.tkl#tools.cql">
-<!ENTITY url.yaz.cql2pqf "http://www.indexdata.dk/yaz/doc/tools.tkl#tools.cql.pqf">
+<!ENTITY url.yaz.cql "http://www.indexdata.dk/yaz/doc/tools.tkl#cql">
+<!ENTITY url.yaz.cql2pqf "http://www.indexdata.dk/yaz/doc/tools.tkl#cql.to.pqf">
 <!ENTITY url.yaz.retrieval "http://www.indexdata.dk/yaz/doc/tools.retrieval.tkl">
 
 <!ENTITY url.yazplusplus "http://www.indexdata.com/yazplusplus/">

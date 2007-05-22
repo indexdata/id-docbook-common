@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.23 2007-05-22 10:53:21 adam Exp $ -->
+<!-- $Id: common.ent,v 1.24 2007-05-22 11:00:20 adam Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -45,7 +45,6 @@
 <!ENTITY acro.sgml "<acronym>SGML</acronym>">
 <!ENTITY acro.soap "<acronym>SOAP</acronym>">
 <!ENTITY acro.sru "<acronym>SRU</acronym>">
-<!ENTITY acro.sru_gps "<acronym>SRU GET/POST/SOAP</acronym>">
 <!ENTITY acro.srw "<acronym>SRW</acronym>">
 <!ENTITY acro.sutrs "<acronym>SUTRS</acronym>">
 <!ENTITY acro.usmarc "<acronym>USMARC</acronym>">
@@ -55,7 +54,6 @@
 <!ENTITY acro.z3950 "<acronym>Z39.50</acronym>">
 <!ENTITY acro.zoom "<acronym>ZOOM</acronym>">
 <!ENTITY acro.zoomnet "<acronym>ZOOM.NET</acronym>">
-
 
 <!-- URL's -->
 <!-- Index Data software -->

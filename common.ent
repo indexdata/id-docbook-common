@@ -1,14 +1,13 @@
-<!-- $Id: common.ent,v 1.22 2007-03-21 19:35:46 adam Exp $ -->
+<!-- $Id: common.ent,v 1.23 2007-05-22 10:53:21 adam Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
-<!ENTITY anders "<firstname>Anders </firstname><surname>Sønderberg</surname>">
+<!ENTITY anders "<firstname>Anders </firstname><surname>S&#xf8;nderberg</surname>">
 <!ENTITY adam "<firstname>Adam </firstname><surname>Dickmeiss</surname>">
 <!ENTITY heikki "<firstname>Heikki </firstname><surname>Levanto</surname>">
 <!ENTITY marccromme "<firstname>Marc </firstname><surname>Cromme</surname>">
 <!ENTITY mike "<firstname>Mike </firstname><surname>Taylor</surname>">
 <!ENTITY sebastian "<firstname>Sebastian </firstname><surname>Hammer</surname>">
-<!ENTITY anders "<firstname>Anders </firstname><surname>Sønderberg</surname>">
 
 <!-- CORORATION NAMES -->
 <!ENTITY indexdata "<corpname>Index Data ApS</corpname>">
@@ -23,39 +22,39 @@
 <!ENTITY zebra20 "<application>Zebra</application> <productnumber>2.0</productnumber>">
 
 <!-- ACRONYMES -->
-<!ENTITY ansi "<acronym>ANSI</acronym>">
-<!ENTITY api "<acronym>API</acronym>">
-<!ENTITY apt "<acronym>APT</acronym>">
-<!ENTITY bib1 "<acronym>BIB-1</acronym>">
-<!ENTITY cql "<acronym>CQL</acronym>">
-<!ENTITY dom "<acronym>DOM</acronym>">
-<!ENTITY exslt "<acronym>EXSLT</acronym>">
-<!ENTITY get "<acronym>GET</acronym>">
-<!ENTITY grs1 "<acronym>GRS-1</acronym>">
-<!ENTITY idxpath "<acronym>IDXPATH</acronym>">
-<!ENTITY marc "<acronym>MARC</acronym>">
-<!ENTITY marcxml "<acronym>MARCXML</acronym>">
-<!ENTITY marc21 "<acronym>MARC21</acronym>">
-<!ENTITY oai "<acronym>OAI</acronym>">
-<!ENTITY php "<acronym>PHP</acronym>">
-<!ENTITY post "<acronym>POST</acronym>">
-<!ENTITY pqf "<acronym>PQF</acronym>">
-<!ENTITY pqn "<acronym>PQN</acronym>">
-<!ENTITY rest "<acronym>REST</acronym>">
-<!ENTITY rpn "<acronym>RPN</acronym>">
-<!ENTITY sgml "<acronym>SGML</acronym>">
-<!ENTITY soap "<acronym>SOAP</acronym>">
-<!ENTITY sru "<acronym>SRU</acronym>">
-<!ENTITY sru_gps "<acronym>SRU GET/POST/SOAP</acronym>">
-<!ENTITY srw "<acronym>SRW</acronym>">
-<!ENTITY sutrs "<acronym>SUTRS</acronym>">
-<!ENTITY usmarc "<acronym>USMARC</acronym>">
-<!ENTITY xml "<acronym>XML</acronym>">
-<!ENTITY xpath "<acronym>XPATH</acronym>">
-<!ENTITY xslt "<acronym>XSLT</acronym>">
-<!ENTITY z3950 "<acronym>Z39.50</acronym>">
-<!ENTITY zoom "<acronym>ZOOM</acronym>">
-<!ENTITY zoomnet "<acronym>ZOOM.NET</acronym>">
+<!ENTITY acro.ansi "<acronym>ANSI</acronym>">
+<!ENTITY acro.api "<acronym>API</acronym>">
+<!ENTITY acro.apt "<acronym>APT</acronym>">
+<!ENTITY acro.bib1 "<acronym>BIB-1</acronym>">
+<!ENTITY acro.cql "<acronym>CQL</acronym>">
+<!ENTITY acro.dom "<acronym>DOM</acronym>">
+<!ENTITY acro.exslt "<acronym>EXSLT</acronym>">
+<!ENTITY acro.get "<acronym>GET</acronym>">
+<!ENTITY acro.grs1 "<acronym>GRS-1</acronym>">
+<!ENTITY acro.idxpath "<acronym>IDXPATH</acronym>">
+<!ENTITY acro.marc "<acronym>MARC</acronym>">
+<!ENTITY acro.marcxml "<acronym>MARCXML</acronym>">
+<!ENTITY acro.marc21 "<acronym>MARC21</acronym>">
+<!ENTITY acro.oai "<acronym>OAI</acronym>">
+<!ENTITY acro.php "<acronym>PHP</acronym>">
+<!ENTITY acro.post "<acronym>POST</acronym>">
+<!ENTITY acro.pqf "<acronym>PQF</acronym>">
+<!ENTITY acro.pqn "<acronym>PQN</acronym>">
+<!ENTITY acro.rest "<acronym>REST</acronym>">
+<!ENTITY acro.rpn "<acronym>RPN</acronym>">
+<!ENTITY acro.sgml "<acronym>SGML</acronym>">
+<!ENTITY acro.soap "<acronym>SOAP</acronym>">
+<!ENTITY acro.sru "<acronym>SRU</acronym>">
+<!ENTITY acro.sru_gps "<acronym>SRU GET/POST/SOAP</acronym>">
+<!ENTITY acro.srw "<acronym>SRW</acronym>">
+<!ENTITY acro.sutrs "<acronym>SUTRS</acronym>">
+<!ENTITY acro.usmarc "<acronym>USMARC</acronym>">
+<!ENTITY acro.xml "<acronym>XML</acronym>">
+<!ENTITY acro.xpath "<acronym>XPATH</acronym>">
+<!ENTITY acro.xslt "<acronym>XSLT</acronym>">
+<!ENTITY acro.z3950 "<acronym>Z39.50</acronym>">
+<!ENTITY acro.zoom "<acronym>ZOOM</acronym>">
+<!ENTITY acro.zoomnet "<acronym>ZOOM.NET</acronym>">
 
 
 <!-- URL's -->

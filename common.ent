@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.26 2007-06-19 07:58:36 adam Exp $ -->
+<!-- $Id: common.ent,v 1.27 2007-06-20 09:33:28 adam Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -93,7 +93,7 @@
 
 <!ENTITY url.pazpar2 "http://www.indexdata.com/pazpar2/">
 <!ENTITY url.pazpar2.download "http://ftp.indexdata.com/pub/pazpar2/">
-<!ENTITY url.pazpar2.download.debian "http://www.indexdata.com/pazpar2/debian/">
+<!ENTITY url.pazpar2.download.debian "http://ftp.indexdata.com/pub/pazpar2/debian/">
 
 <!-- Specifications and Standards -->
 <!ENTITY url.w3c "http://www.w3.org/">

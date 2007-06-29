@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.27 2007-06-20 09:33:28 adam Exp $ -->
+<!-- $Id: common.ent,v 1.28 2007-06-29 08:05:07 adam Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -127,6 +127,10 @@
 	"http://www.loc.gov/z3950/agency/asn1.html#ProximityOperator">
 <!ENTITY url.z39.50.oids
 	"http://www.loc.gov/z3950/agency/defns/oids.html">
+<!ENTITY url.z39.50.extupdate1
+	"http://www.loc.gov/z3950/agency/markup/18.html#auxiliaryStatus4">
+<!ENTITY url.z39.50.extupdate3
+	"http://www.loc.gov/z3950/agency/defns/update-es-rev1.html">
 
 <!ENTITY url.asn.1.tutorial "http://asn1.elibel.tm.fr/en/introduction/">
 <!ENTITY url.asn.1.standards "http://asn1.elibel.tm.fr/en/standards/">

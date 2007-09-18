@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.29 2007-09-18 18:43:17 adam Exp $ -->
+<!-- $Id: common.ent,v 1.30 2007-09-18 19:15:10 adam Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -101,17 +101,16 @@
 <!ENTITY url.xpath "http://www.w3.org/TR/xpath">
 <!ENTITY url.xslt "http://www.w3.org/TR/xslt">
 <!ENTITY url.sru "http://www.loc.gov/standards/sru/">
-<!ENTITY url.sru.searchretrieve "http://www.loc.gov/standards/sru/sru-spec.html">
+<!ENTITY url.sru.searchretrieve 
+         "http://www.loc.gov/standards/sru/specs/search-reretrieve.html">
 <!ENTITY url.zeerex.explain "http://explain.z3950.org/">
-<!ENTITY url.sru.explain "http://www.loc.gov/standards/sru/explain/">
-<!ENTITY url.sru.scan "http://www.loc.gov/standards/sru/scan/">
-<!ENTITY url.sru.sort "http://www.loc.gov/standards/sru/scan/">
+<!ENTITY url.sru.explain "http://www.loc.gov/standards/sru/specs/explain.html">
+<!ENTITY url.sru.scan "http://www.loc.gov/standards/sru/specs/scan.html/">
 
 <!ENTITY url.sru.diagnostics
-	"http://www.loc.gov/standards/sru/diagnostics.html">
+	"http://www.loc.gov/standards/sru/specs/diagnostics.html">
 <!ENTITY url.sru.diagnostics.list
-	"http://www.loc.gov/standards/sru/diagnostics-list.html">
-<!ENTITY url.srw "http://www.loc.gov/standards/sru/srw/">
+	"http://www.loc.gov/standards/sru/resources/diagnostics-list.html">
 <!ENTITY url.soap "http://www.w3.org/TR/soap/">
 <!ENTITY url.z39.50 "http://www.loc.gov/z3950/agency/">
 <!ENTITY url.z39.50.doc "http://www.loc.gov/z3950/agency/markup/toc.html">

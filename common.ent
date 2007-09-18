@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.30 2007-09-18 19:15:10 adam Exp $ -->
+<!-- $Id: common.ent,v 1.31 2007-09-18 19:27:42 adam Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -102,7 +102,7 @@
 <!ENTITY url.xslt "http://www.w3.org/TR/xslt">
 <!ENTITY url.sru "http://www.loc.gov/standards/sru/">
 <!ENTITY url.sru.searchretrieve 
-         "http://www.loc.gov/standards/sru/specs/search-reretrieve.html">
+         "http://www.loc.gov/standards/sru/specs/search-retrieve.html">
 <!ENTITY url.zeerex.explain "http://explain.z3950.org/">
 <!ENTITY url.sru.explain "http://www.loc.gov/standards/sru/specs/explain.html">
 <!ENTITY url.sru.scan "http://www.loc.gov/standards/sru/specs/scan.html/">

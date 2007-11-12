@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.31 2007-09-18 19:27:42 adam Exp $ -->
+<!-- $Id: common.ent,v 1.32 2007-11-12 11:12:43 adam Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -155,9 +155,9 @@
 <!ENTITY url.apache.directive.proxypass "http://httpd.apache.org/docs/mod/mod_proxy.html#proxypass">
 <!ENTITY url.bash "http://www.gnu.org/software/bash/bash.html">
 <!ENTITY url.bison "http://www.gnu.org/software/bison/">
-<!ENTITY url.icu "http://icu.sourceforge.net">
-<!ENTITY url.icu.unicode.set "http://icu.sourceforge.net/userguide/unicodeSet.html">
-<!ENTITY url.icu.transform "http://icu.sourceforge.net/userguide/Transform.html">
+<!ENTITY url.icu "http://www.icu-project.org/">
+<!ENTITY url.icu.unicode.set "http://www.icu-project.org/userguide/unicodeSet.html">
+<!ENTITY url.icu.transform "http://www.icu-project.org/userguide/Transform.html">
 <!ENTITY url.libxml2 "http://xmlsoft.org/">
 <!ENTITY url.libxml2.api "http://www.xmlsoft.org/html/index.html">
 <!ENTITY url.libxml2.api.tree "http://www.xmlsoft.org/html/libxml-tree.html">

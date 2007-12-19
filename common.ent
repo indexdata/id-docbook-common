@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.32 2007-11-12 11:12:43 adam Exp $ -->
+<!-- $Id: common.ent,v 1.33 2007-12-19 09:30:29 adam Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -79,6 +79,7 @@
 <!ENTITY url.yaz.cql "http://www.indexdata.dk/yaz/doc/tools.tkl#cql">
 <!ENTITY url.yaz.cql2pqf "http://www.indexdata.dk/yaz/doc/tools.tkl#cql.to.pqf">
 <!ENTITY url.yaz.retrieval "http://www.indexdata.dk/yaz/doc/tools.retrieval.tkl">
+<!ENTITY url.yaz.yaz-icu "http://www.indexdata.dk/yaz/doc/yaz-icu.tkl">
 
 <!ENTITY url.yazplusplus "http://www.indexdata.com/yazplusplus/">
 <!ENTITY url.yazproxy "http://www.indexdata.com/yazproxy/">

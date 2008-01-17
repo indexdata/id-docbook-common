@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.33 2007-12-19 09:30:29 adam Exp $ -->
+<!-- $Id: common.ent,v 1.34 2008-01-17 21:45:00 adam Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -192,6 +192,7 @@
 <!ENTITY url.suse "http://www.novell.com/linux/">
 <!ENTITY url.macosx "http://www.apple.com/macosx/">
 <!ENTITY url.solaris "http://www.sun.com/software/solaris/">
+<!ENTITY url.ubuntu "http://www.ubuntu.com/">
 <!ENTITY url.windows2000 "http://www.microsoft.com/windows2000/">
 <!ENTITY url.windows2003server "http://www.microsoft.com/windowsserver2003/default.mspx">
 <!ENTITY url.netbsd "http://www.netbsd.org/">

@@ -1,4 +1,4 @@
-<!-- $Id: common.ent,v 1.34 2008-01-17 21:45:00 adam Exp $ -->
+<!-- $Id: common.ent,v 1.35 2008-02-07 12:38:39 marc Exp $ -->
 
 <!-- PERSON NAMES -->
 <!-- Index Data Staff -->
@@ -28,6 +28,7 @@
 <!ENTITY acro.bib1 "<acronym>BIB-1</acronym>">
 <!ENTITY acro.cql "<acronym>CQL</acronym>">
 <!ENTITY acro.dom "<acronym>DOM</acronym>">
+<!ENTITY acro.explain "<acronym>Explain</acronym>">
 <!ENTITY acro.exslt "<acronym>EXSLT</acronym>">
 <!ENTITY acro.get "<acronym>GET</acronym>">
 <!ENTITY acro.grs1 "<acronym>GRS-1</acronym>">
@@ -53,6 +54,7 @@
 <!ENTITY acro.xslt "<acronym>XSLT</acronym>">
 <!ENTITY acro.z3950 "<acronym>Z39.50</acronym>">
 <!ENTITY acro.zoom "<acronym>ZOOM</acronym>">
+<!ENTITY acro.zeerex "<acronym>ZeeReX</acronym>">
 <!ENTITY acro.zoomnet "<acronym>ZOOM.NET</acronym>">
 
 <!-- URL's -->

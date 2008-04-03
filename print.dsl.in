@@ -2,9 +2,6 @@
 <!ENTITY docbook.dsl SYSTEM "@DSSSL_DIR@/print/docbook.dsl"
   CDATA DSSSL>
 ]>
-<!--
-  $Id: print.dsl.in,v 1.2 2006-04-27 16:01:05 adam Exp $
--->
 <style-sheet>
 <style-specification use="docbook">
 <style-specification-body>

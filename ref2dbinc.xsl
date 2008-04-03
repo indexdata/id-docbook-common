@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
-<!-- $Id: ref2dbinc.xsl,v 1.2 2006-09-05 11:57:23 adam Exp $ -->
 <xsl:stylesheet
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   version="1.0">

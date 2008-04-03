@@ -1,5 +1,3 @@
-## $Id: Makefile.am,v 1.15 2006-09-05 10:05:14 adam Exp $
-
 commondir=$(datadir)/doc/$(PACKAGE)$(PACKAGE_SUFFIX)/common
 
 common_DATA = style1.css id.png

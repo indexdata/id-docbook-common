@@ -200,6 +200,6 @@
 <!ENTITY url.openbsd "http://www.openbsd.org/">
 <!ENTITY url.ubuntu "http://www.ubuntu.com/">
 <!ENTITY url.docbook "http://docbook.org/">
-<!ENTITY url.usemarcon "http://www.bl.uk/services/bibliographic/usemarcon.html">
+<!ENTITY url.usemarcon "http://www.bl.uk/bibliographic/usemarcon.html">
 <!ENTITY url.libpcap "http://www.tcpdump.org/">
 

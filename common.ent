@@ -91,6 +91,7 @@
 <!ENTITY url.idzebra.download.debian "http://ftp.indexdata.com/pub/zebra/debian/">
 
 <!ENTITY url.metaproxy "http://www.indexdata.com/metaproxy/">
+<!ENTITY url.metaproxy.doc "http://www.indexdata.com/metaproxy/doc/">
 
 <!ENTITY url.pazpar2 "http://www.indexdata.com/pazpar2/">
 <!ENTITY url.pazpar2.download "http://ftp.indexdata.com/pub/pazpar2/">
@@ -135,7 +136,7 @@
 <!ENTITY url.asn.1.tutorial "http://asn1.elibel.tm.fr/en/introduction/">
 <!ENTITY url.asn.1.standards "http://asn1.elibel.tm.fr/en/standards/">
 
-<!ENTITY url.cql "http://www.loc.gov/standards/sru/cql/">
+<!ENTITY url.cql "http://www.loc.gov/standards/sru/specs/cql.html">
 <!ENTITY url.cql.intro "http://zing.z3950.org/cql/intro.html">
 <!ENTITY url.cql.sorting "http://zing.z3950.org/cql/sorting.html">
 <!ENTITY url.xcql "http://www.loc.gov/standards/sru/xml-files/srw-types.xsd">

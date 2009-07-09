@@ -68,20 +68,20 @@
 <!ENTITY url.yaz.mailinglist	
 	"http://lists.indexdata.dk/cgi-bin/mailman/listinfo/yazlist">
 <!ENTITY url.yaz.mail "mailto:yaz-help@indexdata.dk">
-<!ENTITY url.yaz.comstack.addresses "http://www.indexdata.dk/yaz/doc/comstack.addresses.tkl">
-<!ENTITY url.yaz.zoom "http://www.indexdata.dk/yaz/doc/zoom.tkl">
-<!ENTITY url.yaz.zoom.connections "http://www.indexdata.dk/yaz/doc/zoom.tkl#zoom.connections">
-<!ENTITY url.yaz.zoom.query "http://www.indexdata.dk/yaz/doc/zoom.query.tkl">
-<!ENTITY url.yaz.zoom.resultsets "http://www.indexdata.dk/yaz/doc/zoom.resultsets.tkl">
-<!ENTITY url.yaz.zoom.records "http://www.indexdata.dk/yaz/doc/zoom.records.tkl">
-<!ENTITY url.yaz.pqf "http://www.indexdata.dk/yaz/doc/tools.tkl#PQF">
-<!ENTITY url.yaz.ccl "http://www.indexdata.dk/yaz/doc/tools.tkl#CCL">
-<!ENTITY url.yaz.cql "http://www.indexdata.dk/yaz/doc/tools.tkl#cql">
-<!ENTITY url.yaz.cql2pqf "http://www.indexdata.dk/yaz/doc/tools.tkl#cql.to.pqf">
-<!ENTITY url.yaz.retrieval "http://www.indexdata.dk/yaz/doc/tools.retrieval.tkl">
-<!ENTITY url.yaz.yaz-icu "http://www.indexdata.dk/yaz/doc/yaz-icu.tkl">
+<!ENTITY url.yaz.comstack.addresses "http://www.indexdata.com/yaz/doc/comstack.addresses.html">
+<!ENTITY url.yaz.zoom "http://www.indexdata.com/yaz/doc/zoom.html">
+<!ENTITY url.yaz.zoom.connections "http://www.indexdata.com/yaz/doc/zoom.html#zoom.connections">
+<!ENTITY url.yaz.zoom.query "http://www.indexdata.com/yaz/doc/zoom.query.html">
+<!ENTITY url.yaz.zoom.resultsets "http://www.indexdata.com/yaz/doc/zoom.resultsets.html">
+<!ENTITY url.yaz.zoom.records "http://www.indexdata.com/yaz/doc/zoom.records.html">
+<!ENTITY url.yaz.pqf "http://www.indexdata.com/yaz/doc/tools.html#PQF">
+<!ENTITY url.yaz.ccl "http://www.indexdata.com/yaz/doc/tools.html#CCL">
+<!ENTITY url.yaz.cql "http://www.indexdata.com/yaz/doc/tools.html#cql">
+<!ENTITY url.yaz.cql2pqf "http://www.indexdata.com/yaz/doc/tools.html#cql.to.pqf">
+<!ENTITY url.yaz.retrieval "http://www.indexdata.com/yaz/doc/tools.retrieval.html">
+<!ENTITY url.yaz.yaz-icu "http://www.indexdata.com/yaz/doc/yaz-icu.html">
 
-<!ENTITY url.yazplusplus "http://www.indexdata.com/yazplusplus/">
+<!ENTITY url.yazplusplus "http://www.indexdata.com/yazpp/">
 <!ENTITY url.yazproxy "http://www.indexdata.com/yazproxy/">
 <!ENTITY url.idzebra "http://www.indexdata.com/zebra/">
 <!ENTITY url.idzebra.mailinglist

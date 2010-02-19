@@ -98,6 +98,7 @@
 <!ENTITY url.pazpar2 "http://www.indexdata.com/pazpar2/">
 <!ENTITY url.pazpar2.download "http://ftp.indexdata.com/pub/pazpar2/">
 <!ENTITY url.pazpar2.download.debian "http://ftp.indexdata.com/pub/pazpar2/debian/">
+<!ENTITY url.pazpar2.download.ubuntu "http://ftp.indexdata.com/pub/pazpar2/ubuntu/">
 
 <!-- Specifications and Standards -->
 <!ENTITY url.w3c "http://www.w3.org/">

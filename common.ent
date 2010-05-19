@@ -68,6 +68,8 @@
 <!ENTITY url.yaz.mailinglist	
 	"http://lists.indexdata.dk/cgi-bin/mailman/listinfo/yazlist">
 <!ENTITY url.yaz.mail "mailto:yaz-help@indexdata.dk">
+<!ENTITY url.yaz.doc "http://www.indexdata.com/yaz/doc/">
+<!ENTITY url.yaz.install "http://www.indexdata.com/yaz/doc/installation.html">
 <!ENTITY url.yaz.comstack.addresses "http://www.indexdata.com/yaz/doc/comstack.addresses.html">
 <!ENTITY url.yaz.zoom "http://www.indexdata.com/yaz/doc/zoom.html">
 <!ENTITY url.yaz.zoom.connections "http://www.indexdata.com/yaz/doc/zoom.html#zoom.connections">
@@ -96,6 +98,7 @@
 <!ENTITY url.pazpar2 "http://www.indexdata.com/pazpar2/">
 <!ENTITY url.pazpar2.download "http://ftp.indexdata.com/pub/pazpar2/">
 <!ENTITY url.pazpar2.download.debian "http://ftp.indexdata.com/pub/pazpar2/debian/">
+<!ENTITY url.pazpar2.download.ubuntu "http://ftp.indexdata.com/pub/pazpar2/ubuntu/">
 
 <!-- Specifications and Standards -->
 <!ENTITY url.w3c "http://www.w3.org/">

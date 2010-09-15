@@ -208,4 +208,5 @@
 <!ENTITY url.docbook "http://docbook.org/">
 <!ENTITY url.usemarcon "http://www.bl.uk/bibliographic/usemarcon.html">
 <!ENTITY url.libpcap "http://www.tcpdump.org/">
+<!ENTITY url.solr "http://lucene.apache.org/solr/">
 

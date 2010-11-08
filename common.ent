@@ -164,7 +164,7 @@
 <!ENTITY url.bison "http://www.gnu.org/software/bison/">
 <!ENTITY url.icu "http://www.icu-project.org/">
 <!ENTITY url.icu.unicode.set "http://www.icu-project.org/userguide/unicodeSet.html">
-<!ENTITY url.icu.transform "http://www.icu-project.org/userguide/Transform.html">
+<!ENTITY url.icu.transform "http://userguide.icu-project.org/transforms/general">
 <!ENTITY url.libxml2 "http://xmlsoft.org/">
 <!ENTITY url.libxml2.api "http://www.xmlsoft.org/html/index.html">
 <!ENTITY url.libxml2.api.tree "http://www.xmlsoft.org/html/libxml-tree.html">

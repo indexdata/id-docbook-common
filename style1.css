@@ -1,6 +1,6 @@
 
 .table table {
-	border-collapse;
+	border-collapse: collapse;
 	border: 1px solid black;
 	border-spacing: 0;	
 	width: 94%;

@@ -194,11 +194,12 @@
 <!ENTITY url.linux.kernel "http://www.kernel.org/">
 <!ENTITY url.debian "http://www.debian.org/">
 <!ENTITY url.redhat "http://www.redhat.com/">
+<!ENTITY url.centos "http://www.centos.org/">
 <!ENTITY url.gentoo "http://www.gentoo.org/">
 <!ENTITY url.freebsd "http://www.freebsd.org/">
 <!ENTITY url.suse "http://www.novell.com/linux/">
 <!ENTITY url.macosx "http://www.apple.com/macosx/">
-<!ENTITY url.solaris "http://www.sun.com/software/solaris/">
+<!ENTITY url.solaris "http://www.oracle.com/us/products/servers-storage/solaris/overview/">
 <!ENTITY url.ubuntu "http://www.ubuntu.com/">
 <!ENTITY url.windows2000 "http://www.microsoft.com/windows2000/">
 <!ENTITY url.windows2003server "http://www.microsoft.com/windowsserver2003/default.mspx">

@@ -58,10 +58,8 @@
 <!-- URL's -->
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com/">	
-<!ENTITY url.indexdata.support "http://www.indexdata.com/support/">
-<!ENTITY url.snapshot.download "http://ftp.indexdata.com/pub/snapshot/">
 
-<!ENTITY url.yaz "http://www.indexdata.com/yaz/">
+<!ENTITY url.yaz "http://www.indexdata.com/yaz">
 <!ENTITY url.yaz.download "http://ftp.indexdata.com/pub/yaz/">
 <!ENTITY url.yaz.download.win32 "http://ftp.indexdata.com/pub/yaz/win32/">
 <!ENTITY url.yaz.download.debian "http://ftp.indexdata.com/pub/yaz/debian/">
@@ -83,22 +81,23 @@
 <!ENTITY url.yaz.retrieval "http://www.indexdata.com/yaz/doc/tools.retrieval.html">
 <!ENTITY url.yaz.yaz-icu "http://www.indexdata.com/yaz/doc/yaz-icu.html">
 
-<!ENTITY url.yazplusplus "http://www.indexdata.com/yazpp/">
-<!ENTITY url.yazproxy "http://www.indexdata.com/yazproxy/">
-<!ENTITY url.idzebra "http://www.indexdata.com/zebra/">
+<!ENTITY url.yazplusplus "http://www.indexdata.com/yazpp">
+<!ENTITY url.yazproxy "http://www.indexdata.com/yazproxy">
+<!ENTITY url.idzebra "http://www.indexdata.com/zebra">
 <!ENTITY url.idzebra.mailinglist
 	"http://lists.indexdata.dk/cgi-bin/mailman/listinfo/zebralist">
 <!ENTITY url.idzebra.download "http://ftp.indexdata.com/pub/zebra/">
 <!ENTITY url.idzebra.download.win32 "http://ftp.indexdata.com/pub/zebra/win32/">
 <!ENTITY url.idzebra.download.debian "http://ftp.indexdata.com/pub/zebra/debian/">
 
-<!ENTITY url.metaproxy "http://www.indexdata.com/metaproxy/">
+<!ENTITY url.metaproxy "http://www.indexdata.com/metaproxy">
 <!ENTITY url.metaproxy.doc "http://www.indexdata.com/metaproxy/doc/">
 
-<!ENTITY url.pazpar2 "http://www.indexdata.com/pazpar2/">
+<!ENTITY url.pazpar2 "http://www.indexdata.com/pazpar2">
 <!ENTITY url.pazpar2.download "http://ftp.indexdata.com/pub/pazpar2/">
 <!ENTITY url.pazpar2.download.debian "http://ftp.indexdata.com/pub/pazpar2/debian/">
 <!ENTITY url.pazpar2.download.ubuntu "http://ftp.indexdata.com/pub/pazpar2/ubuntu/">
+<!ENTITY url.simpleserver "http://www.indexdata.com/simpleserver">
 
 <!-- Specifications and Standards -->
 <!ENTITY url.w3c "http://www.w3.org/">

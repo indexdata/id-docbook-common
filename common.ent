@@ -97,6 +97,7 @@
 <!ENTITY url.pazpar2.download.debian "http://ftp.indexdata.com/pub/pazpar2/debian/">
 <!ENTITY url.pazpar2.download.ubuntu "http://ftp.indexdata.com/pub/pazpar2/ubuntu/">
 <!ENTITY url.simpleserver "http://www.indexdata.com/simpleserver">
+<!ENTITY url.mkc "http://www.indexdata.com/masterkey-connect">
 
 <!-- Specifications and Standards -->
 <!ENTITY url.w3c "http://www.w3.org/">

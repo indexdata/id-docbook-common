@@ -180,7 +180,7 @@
 <!ENTITY url.gcc "http://gcc.gnu.org">
 <!ENTITY url.vstudio "http://msdn.microsoft.com/vstudio/">
 <!ENTITY url.boost "http://www.boost.org">
-<!ENTITY url.boost.windows.download "http://www.boostpro.com/download/">
+<!ENTITY url.boost.windows.download "http://sourceforge.net/projects/boost/files/boost-binaries/">
 <!ENTITY url.boost.getting.started "http://www.boost.org/more/getting_started.html">
 <!ENTITY url.boost.compilers.status "http://www.boost.org/status/compiler_status.html">
 <!ENTITY url.openssl "http://www.openssl.org">

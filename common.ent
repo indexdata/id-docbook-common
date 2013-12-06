@@ -155,6 +155,7 @@
 <!ENTITY url.http "http://www.w3.org/Protocols/">
 <!ENTITY url.http.1.1 "http://www.w3.org/Protocols/rfc2616/rfc2616.html">
 <!ENTITY url.danmarc.charset "http://www.kat-format.dk/danMARC2/Danmarc2.4.htm#felt+Indl.+4">
+<!ENTITY url.marc_in_json "http://dilettantes.code4lib.org/blog/2010/09/a-proposal-to-serialize-marc-in-json/">
 
 <!-- External libraries + tools -->
 <!ENTITY url.apache "http://httpd.apache.org/">

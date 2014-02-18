@@ -186,6 +186,7 @@
 <!ENTITY url.boost.compilers.status "http://www.boost.org/status/compiler_status.html">
 <!ENTITY url.openssl "http://www.openssl.org">
 <!ENTITY url.libgcrypt "http://www.gnu.org/software/libgcrypt/">
+<!ENTITY url.libmemcached "http://libmemcached.org/">
 <!ENTITY url.gnutls "http://www.gnu.org/software/gnutls/">
 <!ENTITY url.gitwindows "http://msysgit.github.io/">
 <!ENTITY url.tcpwrapper "http://ftp.porcupine.org/pub/security/index.html">

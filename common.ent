@@ -105,16 +105,8 @@
 <!ENTITY url.xpath "http://www.w3.org/TR/xpath">
 <!ENTITY url.xslt "http://www.w3.org/TR/xslt">
 <!ENTITY url.sru "http://www.loc.gov/standards/sru/">
-<!ENTITY url.sru.searchretrieve
-         "http://www.loc.gov/standards/sru/specs/search-retrieve.html">
 <!ENTITY url.zeerex.explain "http://explain.z3950.org/">
-<!ENTITY url.sru.explain "http://www.loc.gov/standards/sru/specs/explain.html">
-<!ENTITY url.sru.scan "http://www.loc.gov/standards/sru/specs/scan.html/">
-
-<!ENTITY url.sru.diagnostics
-	"http://www.loc.gov/standards/sru/specs/diagnostics.html">
-<!ENTITY url.sru.diagnostics.list
-	"http://www.loc.gov/standards/sru/resources/diagnostics-list.html">
+<!ENTITY url.sru.diagnostics "http://www.loc.gov/standards/sru/diagnostics/">
 <!ENTITY url.soap "http://www.w3.org/TR/soap/">
 <!ENTITY url.z39.50 "http://www.loc.gov/z3950/agency/">
 <!ENTITY url.z39.50.doc "http://www.loc.gov/z3950/agency/markup/toc.html">
@@ -138,10 +130,9 @@
 <!ENTITY url.asn.1.tutorial "http://asn1.elibel.tm.fr/en/introduction/">
 <!ENTITY url.asn.1.standards "http://asn1.elibel.tm.fr/en/standards/">
 
-<!ENTITY url.cql "http://www.loc.gov/standards/sru/specs/cql.html">
+<!ENTITY url.cql "http://www.loc.gov/standards/sru/cql/">
 <!ENTITY url.cql.intro "http://zing.z3950.org/cql/intro.html">
 <!ENTITY url.cql.sorting "http://zing.z3950.org/cql/sorting.html">
-<!ENTITY url.xcql "http://www.loc.gov/standards/sru/xml-files/srw-types.xsd">
 <!ENTITY url.zoom "http://zoom.z3950.org/">
 <!ENTITY url.zoom.api "http://zoom.z3950.org/api/">
 <!ENTITY url.zoom.bind "http://zoom.z3950.org/bindings/">
@@ -154,7 +145,7 @@
 <!ENTITY url.ber.over.tcpip "http://www.faqs.org/rfcs/rfc1729.html">
 <!ENTITY url.http "http://www.w3.org/Protocols/">
 <!ENTITY url.http.1.1 "http://www.w3.org/Protocols/rfc2616/rfc2616.html">
-<!ENTITY url.danmarc.charset "http://www.kat-format.dk/danMARC2/Danmarc2.4.htm#felt+Indl.+4">
+<!ENTITY url.danmarc.charset "http://www.kat-format.dk/danMARC2/Danmarc2.4.htm#felt%20Indl.%204">
 <!ENTITY url.marc_in_json "http://dilettantes.code4lib.org/blog/2010/09/a-proposal-to-serialize-marc-in-json/">
 
 <!-- External libraries + tools -->

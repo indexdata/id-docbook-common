@@ -57,12 +57,12 @@
 
 <!-- URL's -->
 <!-- Index Data software -->
-<!ENTITY url.indexdata "http://www.indexdata.com">	
+<!ENTITY url.indexdata "http://www.indexdata.com">
 <!ENTITY url.yaz "http://www.indexdata.com/yaz">
 <!ENTITY url.yaz.download "http://ftp.indexdata.com/pub/yaz/">
 <!ENTITY url.yaz.download.win32 "http://ftp.indexdata.com/pub/yaz/win32/">
 <!ENTITY url.yaz.download.debian "http://ftp.indexdata.com/pub/yaz/debian/">
-<!ENTITY url.yaz.mailinglist	
+<!ENTITY url.yaz.mailinglist
 	"http://lists.indexdata.dk/cgi-bin/mailman/listinfo/yazlist">
 <!ENTITY url.yaz.mail "mailto:yaz-help@indexdata.dk">
 <!ENTITY url.yaz.doc "http://www.indexdata.com/yaz/doc/">
@@ -105,7 +105,7 @@
 <!ENTITY url.xpath "http://www.w3.org/TR/xpath">
 <!ENTITY url.xslt "http://www.w3.org/TR/xslt">
 <!ENTITY url.sru "http://www.loc.gov/standards/sru/">
-<!ENTITY url.sru.searchretrieve 
+<!ENTITY url.sru.searchretrieve
          "http://www.loc.gov/standards/sru/specs/search-retrieve.html">
 <!ENTITY url.zeerex.explain "http://explain.z3950.org/">
 <!ENTITY url.sru.explain "http://www.loc.gov/standards/sru/specs/explain.html">
@@ -126,7 +126,7 @@
 <!ENTITY url.z39.50.attset.bib1.1995 "http://www.loc.gov/z3950/agency/bib1.html">
 <!ENTITY url.z39.50.charneg "http://www.loc.gov/z3950/agency/defns/charneg-3.html">
 <!ENTITY url.z39.50.proximity "http://www.loc.gov/z3950/agency/markup/09.html#3.7.2">
-<!ENTITY url.z39.50.proximity.asn1 
+<!ENTITY url.z39.50.proximity.asn1
 	"http://www.loc.gov/z3950/agency/asn1.html#ProximityOperator">
 <!ENTITY url.z39.50.oids
 	"http://www.loc.gov/z3950/agency/defns/oids.html">

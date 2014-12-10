@@ -171,7 +171,7 @@
 <!ENTITY url.tcl "http://www.tcl.tk/">
 <!ENTITY url.perl "http://www.perl.com/">
 <!ENTITY url.gcc "http://gcc.gnu.org">
-<!ENTITY url.vstudio "http://msdn.microsoft.com/vstudio/">
+<!ENTITY url.vstudio "http://www.visualstudio.com">
 <!ENTITY url.boost "http://www.boost.org">
 <!ENTITY url.boost.windows.download "http://sourceforge.net/projects/boost/files/boost-binaries/">
 <!ENTITY url.boost.getting.started "http://www.boost.org/more/getting_started.html">

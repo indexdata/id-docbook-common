@@ -106,6 +106,7 @@
 <!ENTITY url.xslt "http://www.w3.org/TR/xslt">
 <!ENTITY url.sru "http://www.loc.gov/standards/sru/">
 <!ENTITY url.zeerex.explain "http://explain.z3950.org/">
+<!ENTITY url.sru.explain "http://www.loc.gov/standards/sru/explain/">
 <!ENTITY url.sru.diagnostics "http://www.loc.gov/standards/sru/diagnostics/">
 <!ENTITY url.soap "http://www.w3.org/TR/soap/">
 <!ENTITY url.z39.50 "http://www.loc.gov/z3950/agency/">

@@ -160,7 +160,7 @@
 <!ENTITY url.libxml2.api "http://www.xmlsoft.org/html/index.html">
 <!ENTITY url.libxml2.api.tree "http://www.xmlsoft.org/html/libxml-tree.html">
 <!ENTITY url.libxslt "http://xmlsoft.org/XSLT/">
-<!ENTITY url.libxml2.download.win32 "http://www.zlatkovic.com/libxml.en.html">
+<!ENTITY url.libxml2.download.windows "http://ftp.indexdata.dk/pub/support/windows/">
 <!ENTITY url.expat "http://expat.sourceforge.net/">
 <!ENTITY url.autoconf "http://www.gnu.org/software/autoconf/">
 <!ENTITY url.automake "http://www.gnu.org/software/automake/">

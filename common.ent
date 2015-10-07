@@ -142,7 +142,7 @@
 <!ENTITY url.marc8 "http://www.loc.gov/marc/specifications/speccharmarc8.html">
 <!ENTITY url.marcxml "http://www.loc.gov/standards/marcxml/">
 <!ENTITY url.marcxchange "http://www.loc.gov/standards/iso25577/">
-<!ENTITY url.ill "http://www.nlc-bnc.ca/iso/ill/">
+<!ENTITY url.ill "http://www.nlc-bnc.ca/iso/ill/standard.htm">
 <!ENTITY url.ber.over.tcpip "http://www.faqs.org/rfcs/rfc1729.html">
 <!ENTITY url.http "http://www.w3.org/Protocols/">
 <!ENTITY url.http.1.1 "http://www.w3.org/Protocols/rfc2616/rfc2616.html">

@@ -136,7 +136,7 @@
 <!ENTITY url.cql.sorting "http://zing.z3950.org/cql/sorting.html">
 <!ENTITY url.zoom "http://zoom.z3950.org/">
 <!ENTITY url.zoom.api "http://zoom.z3950.org/api/">
-<!ENTITY url.zoom.bind "http://zoom.z3950.org/bindings/">
+<!ENTITY url.zoom.bind "http://zoom.z3950.org/bind/">
 <!ENTITY url.zoom.bind.cplusplus "http://zoom.z3950.org/bind/cplusplus/">
 <!ENTITY url.marc21 "http://www.loc.gov/marc/">
 <!ENTITY url.marc8 "http://www.loc.gov/marc/specifications/speccharmarc8.html">

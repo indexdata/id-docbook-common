@@ -19,7 +19,7 @@
 <!ENTITY zebra13 "<application>Zebra</application> <productnumber>1.3</productnumber>">
 <!ENTITY zebra20 "<application>Zebra</application> <productnumber>2.0</productnumber>">
 
-<!-- ACRONYMES -->
+<!-- ACRONYMS -->
 <!ENTITY acro.ansi "<acronym>ANSI</acronym>">
 <!ENTITY acro.api "<acronym>API</acronym>">
 <!ENTITY acro.apt "<acronym>APT</acronym>">
@@ -55,7 +55,7 @@
 <!ENTITY acro.zeerex "<acronym>ZeeReX</acronym>">
 <!ENTITY acro.zoomnet "<acronym>ZOOM.NET</acronym>">
 
-<!-- URL's -->
+<!-- URLs -->
 <!-- Index Data software -->
 <!ENTITY url.indexdata "http://www.indexdata.com">
 <!ENTITY url.yaz "http://www.indexdata.com/yaz">
@@ -157,6 +157,7 @@
 <!ENTITY url.icu "http://www.icu-project.org/">
 <!ENTITY url.icu.unicode.set "http://www.icu-project.org/userguide/unicodeSet.html">
 <!ENTITY url.icu.transform "http://userguide.icu-project.org/transforms/general">
+<!ENTITY url.jing_trang "http://github.com/relaxng/jing-trang">
 <!ENTITY url.libxml2 "http://xmlsoft.org/">
 <!ENTITY url.libxml2.api "http://www.xmlsoft.org/html/index.html">
 <!ENTITY url.libxml2.api.tree "http://www.xmlsoft.org/html/libxml-tree.html">
@@ -182,6 +183,7 @@
 <!ENTITY url.libgcrypt "http://www.gnu.org/software/libgcrypt/">
 <!ENTITY url.libmemcached "http://libmemcached.org/">
 <!ENTITY url.redis "http://redis.io/">
+<!ENTITY url.relaxng "http://relaxng.org/">
 <!ENTITY url.gnutls "http://www.gnu.org/software/gnutls/">
 <!ENTITY url.gitwindows "http://msysgit.github.io/">
 <!ENTITY url.tcpwrapper "http://ftp.porcupine.org/pub/security/index.html">

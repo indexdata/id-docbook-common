@@ -105,7 +105,7 @@
 <!ENTITY url.xpath "http://www.w3.org/TR/xpath">
 <!ENTITY url.xslt "http://www.w3.org/TR/xslt">
 <!ENTITY url.sru "http://www.loc.gov/standards/sru/">
-<!ENTITY url.zeerex.explain "http://explain.z3950.org/">
+<!ENTITY url.zeerex.explain "http://zeerex.z3950.org/">
 <!ENTITY url.sru.explain "http://www.loc.gov/standards/sru/explain/">
 <!ENTITY url.sru.diagnostics "http://www.loc.gov/standards/sru/diagnostics/">
 <!ENTITY url.soap "http://www.w3.org/TR/soap/">
@@ -151,11 +151,11 @@
 
 <!-- External libraries + tools -->
 <!ENTITY url.apache "http://httpd.apache.org/">
-<!ENTITY url.apache.directive.proxypass "http://httpd.apache.org/docs/mod/mod_proxy.html#proxypass">
+<!ENTITY url.apache.directive.proxypass "http://httpd.apache.org/docs/current/mod/mod_proxy.html#proxypass">
 <!ENTITY url.bash "http://www.gnu.org/software/bash/bash.html">
 <!ENTITY url.bison "http://www.gnu.org/software/bison/">
 <!ENTITY url.icu "http://www.icu-project.org/">
-<!ENTITY url.icu.unicode.set "http://www.icu-project.org/userguide/unicodeSet.html">
+<!ENTITY url.icu.unicode.set "http://userguide.icu-project.org/strings/unicodeset">
 <!ENTITY url.icu.transform "http://userguide.icu-project.org/transforms/general">
 <!ENTITY url.jing_trang "http://github.com/relaxng/jing-trang">
 <!ENTITY url.libxml2 "http://xmlsoft.org/">
@@ -170,7 +170,7 @@
 <!ENTITY url.automake "http://www.gnu.org/software/automake/">
 <!ENTITY url.libtool "http://www.gnu.org/software/libtool/">
 <!ENTITY url.libiconv "http://www.gnu.org/software/libiconv/">
-<!ENTITY url.bzip2 "http://sources.redat.com/bzip2/">
+<!ENTITY url.bzip2 "http://sources.redhat.com/bzip2/">
 <!ENTITY url.tcl "http://www.tcl.tk/">
 <!ENTITY url.perl "http://www.perl.com/">
 <!ENTITY url.gcc "http://gcc.gnu.org">
@@ -178,7 +178,7 @@
 <!ENTITY url.boost "http://www.boost.org">
 <!ENTITY url.boost.windows.download "http://sourceforge.net/projects/boost/files/boost-binaries/">
 <!ENTITY url.boost.getting.started "http://www.boost.org/more/getting_started.html">
-<!ENTITY url.boost.compilers.status "http://www.boost.org/status/compiler_status.html">
+<!ENTITY url.boost.compilers.status "http://www.boost.org/development/testing.html">
 <!ENTITY url.openssl "http://www.openssl.org">
 <!ENTITY url.libgcrypt "http://www.gnu.org/software/libgcrypt/">
 <!ENTITY url.libmemcached "http://libmemcached.org/">
@@ -196,7 +196,7 @@
 <!ENTITY url.gentoo "http://www.gentoo.org/">
 <!ENTITY url.freebsd "http://www.freebsd.org/">
 <!ENTITY url.suse "http://www.suse.com">
-<!ENTITY url.macosx "http://www.apple.com/macosx/">
+<!ENTITY url.macosx "http://www.apple.com/osx/">
 <!ENTITY url.solaris "http://www.oracle.com/solaris">
 <!ENTITY url.ubuntu "http://www.ubuntu.com">
 <!ENTITY url.windows2000 "http://www.microsoft.com/windows2000/">

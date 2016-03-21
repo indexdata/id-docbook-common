@@ -170,7 +170,7 @@
 <!ENTITY url.automake "http://www.gnu.org/software/automake/">
 <!ENTITY url.libtool "http://www.gnu.org/software/libtool/">
 <!ENTITY url.libiconv "http://www.gnu.org/software/libiconv/">
-<!ENTITY url.bzip2 "http://sources.redat.com/bzip2/">
+<!ENTITY url.bzip2 "http://sources.redhat.com/bzip2/">
 <!ENTITY url.tcl "http://www.tcl.tk/">
 <!ENTITY url.perl "http://www.perl.com/">
 <!ENTITY url.gcc "http://gcc.gnu.org">

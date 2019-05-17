@@ -128,8 +128,8 @@
 <!ENTITY url.z39.50.extupdate3
 	"http://www.loc.gov/z3950/agency/defns/update-es-rev1.html">
 
-<!ENTITY url.asn.1.tutorial "http://asn1.elibel.tm.fr/en/introduction/">
-<!ENTITY url.asn.1.standards "http://asn1.elibel.tm.fr/en/standards/">
+<!ENTITY url.asn.1.tutorial "https://www.itu.int/en/ITU-T/asn1/Pages/Tutorial.aspx">
+<!ENTITY url.asn.1.standards "https://www.itu.int/en/ITU-T/asn1/Pages/asn1_project.aspx">
 
 <!ENTITY url.cql "http://www.loc.gov/standards/sru/cql/">
 <!ENTITY url.cql.intro "http://zing.z3950.org/cql/intro.html">

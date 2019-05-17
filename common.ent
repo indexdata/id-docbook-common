@@ -57,7 +57,7 @@
 
 <!-- URLs -->
 <!-- Index Data software -->
-<!ENTITY url.indexdata "http://www.indexdata.com">
+<!ENTITY url.indexdata "https://www.indexdata.com">
 <!ENTITY url.yaz "http://www.indexdata.com/yaz">
 <!ENTITY url.yaz.download "http://ftp.indexdata.com/pub/yaz/">
 <!ENTITY url.yaz.download.win32 "http://ftp.indexdata.com/pub/yaz/win32/">
@@ -96,37 +96,37 @@
 <!ENTITY url.pazpar2.download "http://ftp.indexdata.com/pub/pazpar2/">
 <!ENTITY url.pazpar2.download.debian "http://ftp.indexdata.com/pub/pazpar2/debian/">
 <!ENTITY url.pazpar2.download.ubuntu "http://ftp.indexdata.com/pub/pazpar2/ubuntu/">
-<!ENTITY url.simpleserver "http://www.indexdata.com/simpleserver">
-<!ENTITY url.mkc "http://www.indexdata.com/masterkey-connect">
+<!ENTITY url.simpleserver "https://www.indexdata.com/simpleserver">
+<!ENTITY url.mkc "https://www.indexdata.com/masterkey-connect">
 
 <!-- Specifications and Standards -->
-<!ENTITY url.w3c "http://www.w3.org/">
-<!ENTITY url.xml "http://www.w3.org/XML/">
-<!ENTITY url.xpath "http://www.w3.org/TR/xpath">
-<!ENTITY url.xslt "http://www.w3.org/TR/xslt">
-<!ENTITY url.sru "http://www.loc.gov/standards/sru/">
+<!ENTITY url.w3c "https://www.w3.org/">
+<!ENTITY url.xml "https://www.w3.org/XML/">
+<!ENTITY url.xpath "https://www.w3.org/TR/xpath">
+<!ENTITY url.xslt "https://www.w3.org/TR/xslt">
+<!ENTITY url.sru "https://www.loc.gov/standards/sru/">
 <!ENTITY url.zeerex.explain "http://zeerex.z3950.org/">
-<!ENTITY url.sru.explain "http://www.loc.gov/standards/sru/explain/">
-<!ENTITY url.sru.diagnostics "http://www.loc.gov/standards/sru/diagnostics/">
-<!ENTITY url.soap "http://www.w3.org/TR/soap/">
-<!ENTITY url.z39.50 "http://www.loc.gov/z3950/agency/">
-<!ENTITY url.z39.50.doc "http://www.loc.gov/z3950/agency/markup/toc.html">
-<!ENTITY url.z39.50.asn.1 "http://www.loc.gov/z3950/agency/asn1.html">
-<!ENTITY url.z39.50.explain "http://www.loc.gov/z3950/agency/markup/07.html">
-<!ENTITY url.z39.50.diagnostics "http://www.loc.gov/z3950/agency/defns/bib1diag.html">
-<!ENTITY url.z39.50.attset.bib1 "http://www.loc.gov/z3950/agency/defns/bib1.html">
-<!ENTITY url.z39.50.bib1.semantics "http://www.loc.gov/z3950/agency/bib1.html">
-<!ENTITY url.z39.50.attset.bib1.1995 "http://www.loc.gov/z3950/agency/bib1.html">
-<!ENTITY url.z39.50.charneg "http://www.loc.gov/z3950/agency/defns/charneg-3.html">
-<!ENTITY url.z39.50.proximity "http://www.loc.gov/z3950/agency/markup/09.html#3.7.2">
+<!ENTITY url.sru.explain "https://www.loc.gov/standards/sru/explain/">
+<!ENTITY url.sru.diagnostics "https://www.loc.gov/standards/sru/diagnostics/">
+<!ENTITY url.soap "https://www.w3.org/TR/soap/">
+<!ENTITY url.z39.50 "https://www.loc.gov/z3950/agency/">
+<!ENTITY url.z39.50.doc "https://www.loc.gov/z3950/agency/markup/toc.html">
+<!ENTITY url.z39.50.asn.1 "https://www.loc.gov/z3950/agency/asn1.html">
+<!ENTITY url.z39.50.explain "https://www.loc.gov/z3950/agency/markup/07.html">
+<!ENTITY url.z39.50.diagnostics "https://www.loc.gov/z3950/agency/defns/bib1diag.html">
+<!ENTITY url.z39.50.attset.bib1 "https://www.loc.gov/z3950/agency/defns/bib1.html">
+<!ENTITY url.z39.50.bib1.semantics "https://www.loc.gov/z3950/agency/bib1.html">
+<!ENTITY url.z39.50.attset.bib1.1995 "https://www.loc.gov/z3950/agency/bib1.html">
+<!ENTITY url.z39.50.charneg "https://www.loc.gov/z3950/agency/defns/charneg-3.html">
+<!ENTITY url.z39.50.proximity "https://www.loc.gov/z3950/agency/markup/09.html#3.7.2">
 <!ENTITY url.z39.50.proximity.asn1
-	"http://www.loc.gov/z3950/agency/asn1.html#ProximityOperator">
+	"https://www.loc.gov/z3950/agency/asn1.html#ProximityOperator">
 <!ENTITY url.z39.50.oids
-	"http://www.loc.gov/z3950/agency/defns/oids.html">
+	"https://www.loc.gov/z3950/agency/defns/oids.html">
 <!ENTITY url.z39.50.extupdate1
-	"http://www.loc.gov/z3950/agency/markup/18.html#auxiliaryStatus4">
+	"https://www.loc.gov/z3950/agency/markup/18.html#auxiliaryStatus4">
 <!ENTITY url.z39.50.extupdate3
-	"http://www.loc.gov/z3950/agency/defns/update-es-rev1.html">
+	"https://www.loc.gov/z3950/agency/defns/update-es-rev1.html">
 
 <!ENTITY url.asn.1.tutorial "https://www.itu.int/en/ITU-T/asn1/Pages/Tutorial.aspx">
 <!ENTITY url.asn.1.standards "https://www.itu.int/en/ITU-T/asn1/Pages/asn1_project.aspx">
@@ -138,26 +138,26 @@
 <!ENTITY url.zoom.api "http://zoom.z3950.org/api/">
 <!ENTITY url.zoom.bind "http://zoom.z3950.org/bind/">
 <!ENTITY url.zoom.bind.cplusplus "http://zoom.z3950.org/bind/cplusplus/">
-<!ENTITY url.marc21 "http://www.loc.gov/marc/">
-<!ENTITY url.marc8 "http://www.loc.gov/marc/specifications/speccharmarc8.html">
-<!ENTITY url.marcxml "http://www.loc.gov/standards/marcxml/">
-<!ENTITY url.marcxchange "http://www.loc.gov/standards/iso25577/">
+<!ENTITY url.marc21 "https://www.loc.gov/marc/">
+<!ENTITY url.marc8 "https://www.loc.gov/marc/specifications/speccharmarc8.html">
+<!ENTITY url.marcxml "https://www.loc.gov/standards/marcxml/">
+<!ENTITY url.marcxchange "https://www.loc.gov/standards/iso25577/">
 <!ENTITY url.ill "http://www.nlc-bnc.ca/iso/ill/standard.htm">
 <!ENTITY url.ber.over.tcpip "http://www.faqs.org/rfcs/rfc1729.html">
-<!ENTITY url.http "http://www.w3.org/Protocols/">
-<!ENTITY url.http.1.1 "http://www.w3.org/Protocols/rfc2616/rfc2616.html">
+<!ENTITY url.http "https://www.w3.org/Protocols/">
+<!ENTITY url.http.1.1 "https://www.w3.org/Protocols/rfc2616/rfc2616.html">
 <!ENTITY url.danmarc.charset "http://www.kat-format.dk/danMARC2/Danmarc2.4.htm">
 <!ENTITY url.marc_in_json "http://dilettantes.code4lib.org/blog/2010/09/a-proposal-to-serialize-marc-in-json/">
 
 <!-- External libraries + tools -->
-<!ENTITY url.apache "http://httpd.apache.org/">
-<!ENTITY url.apache.directive.proxypass "http://httpd.apache.org/docs/current/mod/mod_proxy.html#proxypass">
-<!ENTITY url.bash "http://www.gnu.org/software/bash/bash.html">
-<!ENTITY url.bison "http://www.gnu.org/software/bison/">
+<!ENTITY url.apache "https://httpd.apache.org/">
+<!ENTITY url.apache.directive.proxypass "https://httpd.apache.org/docs/current/mod/mod_proxy.html#proxypass">
+<!ENTITY url.bash "https://www.gnu.org/software/bash/">
+<!ENTITY url.bison "https://www.gnu.org/software/bison/">
 <!ENTITY url.icu "http://www.icu-project.org/">
 <!ENTITY url.icu.unicode.set "http://userguide.icu-project.org/strings/unicodeset">
 <!ENTITY url.icu.transform "http://userguide.icu-project.org/transforms/general">
-<!ENTITY url.jing_trang "http://github.com/relaxng/jing-trang">
+<!ENTITY url.jing_trang "https://github.com/relaxng/jing-trang">
 <!ENTITY url.libxml2 "http://xmlsoft.org/">
 <!ENTITY url.libxml2.api "http://www.xmlsoft.org/html/index.html">
 <!ENTITY url.libxml2.api.tree "http://www.xmlsoft.org/html/libxml-tree.html">
@@ -165,11 +165,11 @@
 <!ENTITY url.libxml2.download.windows "http://ftp.indexdata.dk/pub/support/windows/">
 <!ENTITY url.indexdata.support "http://ftp.indexdata.dk/pub/support/">
 <!ENTITY url.indexdata.support.windows "http://ftp.indexdata.dk/pub/support/windows/">
-<!ENTITY url.expat "http://expat.sourceforge.net/">
-<!ENTITY url.autoconf "http://www.gnu.org/software/autoconf/">
-<!ENTITY url.automake "http://www.gnu.org/software/automake/">
-<!ENTITY url.libtool "http://www.gnu.org/software/libtool/">
-<!ENTITY url.libiconv "http://www.gnu.org/software/libiconv/">
+<!ENTITY url.expat "https://libexpat.github.io">
+<!ENTITY url.autoconf "https://www.gnu.org/software/autoconf/">
+<!ENTITY url.automake "https://www.gnu.org/software/automake/">
+<!ENTITY url.libtool "https://www.gnu.org/software/libtool/">
+<!ENTITY url.libiconv "https://www.gnu.org/software/libiconv/">
 <!ENTITY url.bzip2 "http://sources.redhat.com/bzip2/">
 <!ENTITY url.tcl "http://www.tcl.tk/">
 <!ENTITY url.perl "http://www.perl.com/">
@@ -179,32 +179,30 @@
 <!ENTITY url.boost.windows.download "http://sourceforge.net/projects/boost/files/boost-binaries/">
 <!ENTITY url.boost.getting.started "http://www.boost.org/more/getting_started.html">
 <!ENTITY url.boost.compilers.status "http://www.boost.org/development/testing.html">
-<!ENTITY url.openssl "http://www.openssl.org">
-<!ENTITY url.libgcrypt "http://www.gnu.org/software/libgcrypt/">
-<!ENTITY url.libmemcached "http://libmemcached.org/">
-<!ENTITY url.redis "http://redis.io/">
-<!ENTITY url.relaxng "http://relaxng.org/">
-<!ENTITY url.gnutls "http://www.gnu.org/software/gnutls/">
-<!ENTITY url.gitwindows "http://msysgit.github.io/">
+<!ENTITY url.openssl "https://www.openssl.org">
+<!ENTITY url.libgcrypt "https://www.gnu.org/software/libgcrypt/">
+<!ENTITY url.libmemcached "https://libmemcached.org/">
+<!ENTITY url.redis "https://redis.io/">
+<!ENTITY url.relaxng "https://relaxng.org/">
+<!ENTITY url.gnutls "https://www.gnu.org/software/gnutls/">
+<!ENTITY url.gitwindows "http://gitforwindows.org">
 <!ENTITY url.tcpwrapper "http://ftp.porcupine.org/pub/security/index.html">
+<!ENTITY url.solr "https://lucene.apache.org/solr/">
+<!ENTITY url.docbook "https://docbook.org">
+<!ENTITY url.usemarcon "https://www.kiwi.fi/display/Marc21/USEMARCON">
+<!ENTITY url.libpcap "http://www.tcpdump.org">
 
 <!-- Operating Systems -->
-<!ENTITY url.linux.kernel "http://www.kernel.org/">
-<!ENTITY url.debian "http://www.debian.org/">
-<!ENTITY url.redhat "http://www.redhat.com/">
-<!ENTITY url.centos "http://www.centos.org/">
-<!ENTITY url.gentoo "http://www.gentoo.org/">
-<!ENTITY url.freebsd "http://www.freebsd.org/">
-<!ENTITY url.suse "http://www.suse.com">
-<!ENTITY url.macosx "http://www.apple.com/osx/">
-<!ENTITY url.solaris "http://www.oracle.com/solaris">
-<!ENTITY url.ubuntu "http://www.ubuntu.com">
-<!ENTITY url.windows2000 "http://www.microsoft.com/windows2000/">
-<!ENTITY url.windows2003server "http://www.microsoft.com/windowsserver2003/default.mspx">
-<!ENTITY url.netbsd "http://www.netbsd.org">
-<!ENTITY url.openbsd "http://www.openbsd.org">
-<!ENTITY url.docbook "http://docbook.org">
-<!ENTITY url.usemarcon "http://www.nationallibrary.fi/libraries/format/usemarcon.html">
-<!ENTITY url.libpcap "http://www.tcpdump.org">
-<!ENTITY url.solr "http://lucene.apache.org/solr/">
+<!ENTITY url.linux.kernel "https://www.kernel.org/">
+<!ENTITY url.debian "https://www.debian.org/">
+<!ENTITY url.redhat "https://www.redhat.com/">
+<!ENTITY url.centos "https://www.centos.org/">
+<!ENTITY url.gentoo "https://www.gentoo.org/">
+<!ENTITY url.freebsd "https://www.freebsd.org/">
+<!ENTITY url.suse "https://www.suse.com">
+<!ENTITY url.macosx "https://www.apple.com/osx/">
+<!ENTITY url.solaris "https://www.oracle.com/solaris">
+<!ENTITY url.ubuntu "https://www.ubuntu.com">
+<!ENTITY url.netbsd "https://www.netbsd.org">
+<!ENTITY url.openbsd "https://www.openbsd.org">
 

@@ -64,7 +64,7 @@
 <!ENTITY url.yaz.download.debian "http://ftp.indexdata.com/pub/yaz/debian/">
 <!ENTITY url.yaz.mailinglist
 	"http://lists.indexdata.dk/cgi-bin/mailman/listinfo/yazlist">
-<!ENTITY url.yaz.mail "mailto:yaz-help@indexdata.dk">
+<!ENTITY url.yaz.mail "mailto:info@indexdata.com">
 <!ENTITY url.yaz.doc "http://www.indexdata.com/yaz/doc/">
 <!ENTITY url.yaz.install "http://www.indexdata.com/yaz/doc/installation.html">
 <!ENTITY url.yaz.comstack.addresses "http://www.indexdata.com/yaz/doc/comstack.addresses.html">

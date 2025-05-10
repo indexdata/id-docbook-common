@@ -155,7 +155,7 @@
 <!ENTITY url.bash "https://www.gnu.org/software/bash/">
 <!ENTITY url.bison "https://www.gnu.org/software/bison/">
 <!ENTITY url.icu "http://github.com/unicode-org/icu">
-<!ENTITY url.icu.unicode.set ""https://unicode-org.github.io/icu/userguide/strings/unicodeset.html>
+<!ENTITY url.icu.unicode.set "https://unicode-org.github.io/icu/userguide/strings/unicodeset.html">
 <!ENTITY url.icu.transform "https://unicode-org.github.io/icu/userguide/transforms/general/">
 <!ENTITY url.jing_trang "https://github.com/relaxng/jing-trang">
 <!ENTITY url.libxml2 "http://xmlsoft.org/">

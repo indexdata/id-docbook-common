@@ -196,7 +196,7 @@
 <!ENTITY url.gentoo "https://gentoo.org">
 <!ENTITY url.freebsd "https://freebsd.org/">
 <!ENTITY url.suse "https://suse.com">
-<!ENTITY url.macosx "https://apple.com/osx/">
+<!ENTITY url.macosx "https://apple.com/os/macos/">
 <!ENTITY url.solaris "https://oracle.com/solaris">
 <!ENTITY url.ubuntu "https://ubuntu.com">
 <!ENTITY url.netbsd "https://netbsd.org">

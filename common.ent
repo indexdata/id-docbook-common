@@ -100,34 +100,34 @@
 <!ENTITY url.xml "https://w3.org/XML/">
 <!ENTITY url.xpath "https://w3.org/TR/xpath/">
 <!ENTITY url.xslt "https://w3.org/TR/xslt/">
-<!ENTITY url.sru "https://www.loc.gov/standards/sru/">
+<!ENTITY url.sru "https://loc.gov/standards/sru/">
 <!ENTITY url.zeerex.explain "https://zeerex.z3950.org/">
-<!ENTITY url.sru.explain "https://www.loc.gov/standards/sru/explain/">
-<!ENTITY url.sru.diagnostics "https://www.loc.gov/standards/sru/diagnostics/">
+<!ENTITY url.sru.explain "https://loc.gov/standards/sru/explain/">
+<!ENTITY url.sru.diagnostics "https://loc.gov/standards/sru/diagnostics/">
 <!ENTITY url.soap "https://w3.org/TR/soap/">
-<!ENTITY url.z39.50 "https://www.loc.gov/z3950/agency/">
-<!ENTITY url.z39.50.doc "https://www.loc.gov/z3950/agency/markup/toc.html">
-<!ENTITY url.z39.50.asn.1 "https://www.loc.gov/z3950/agency/asn1.html">
-<!ENTITY url.z39.50.explain "https://www.loc.gov/z3950/agency/markup/07.html">
-<!ENTITY url.z39.50.diagnostics "https://www.loc.gov/z3950/agency/defns/bib1diag.html">
-<!ENTITY url.z39.50.attset.bib1 "https://www.loc.gov/z3950/agency/defns/bib1.html">
-<!ENTITY url.z39.50.bib1.semantics "https://www.loc.gov/z3950/agency/bib1.html">
-<!ENTITY url.z39.50.attset.bib1.1995 "https://www.loc.gov/z3950/agency/bib1.html">
-<!ENTITY url.z39.50.charneg "https://www.loc.gov/z3950/agency/defns/charneg-3.html">
-<!ENTITY url.z39.50.proximity "https://www.loc.gov/z3950/agency/markup/09.html#3.7.2">
+<!ENTITY url.z39.50 "https://loc.gov/standards/z3950/agency/">
+<!ENTITY url.z39.50.doc "https://loc.gov/standards/z3950/agency/markup/toc.html">
+<!ENTITY url.z39.50.asn.1 "https://loc.gov/standards/z3950/agency/asn1.html">
+<!ENTITY url.z39.50.explain "https://loc.gov/standards/z3950/agency/markup/07.html">
+<!ENTITY url.z39.50.diagnostics "https://loc.gov/standards/z3950/agency/defns/bib1diag.html">
+<!ENTITY url.z39.50.attset.bib1 "https://loc.gov/standards/z3950/agency/defns/bib1.html">
+<!ENTITY url.z39.50.bib1.semantics "https://loc.gov/standards/z3950/agency/bib1.html">
+<!ENTITY url.z39.50.attset.bib1.1995 "https://loc.gov/standards/z3950/agency/bib1.html">
+<!ENTITY url.z39.50.charneg "https://loc.gov/standards/z3950/agency/defns/charneg-3.html">
+<!ENTITY url.z39.50.proximity "https://loc.gov/standards/z3950/agency/markup/09.html#3.7.2">
 <!ENTITY url.z39.50.proximity.asn1
-	"https://www.loc.gov/z3950/agency/asn1.html#ProximityOperator">
+	"https://loc.gov/standards/z3950/agency/asn1.html#ProximityOperator">
 <!ENTITY url.z39.50.oids
-	"https://www.loc.gov/z3950/agency/defns/oids.html">
+	"https://loc.gov/standards/z3950/agency/defns/oids.html">
 <!ENTITY url.z39.50.extupdate1
-	"https://www.loc.gov/z3950/agency/markup/18.html#auxiliaryStatus4">
+	"https://loc.gov/standards/z3950/agency/markup/18.html#auxiliaryStatus4">
 <!ENTITY url.z39.50.extupdate3
-	"https://www.loc.gov/z3950/agency/defns/update-es-rev1.html">
+	"https://loc.gov/standards/z3950/agency/defns/update-es-rev1.html">
 
 <!ENTITY url.asn.1.tutorial "https://www.itu.int/en/ITU-T/asn1/Pages/Tutorial.aspx">
 <!ENTITY url.asn.1.standards "https://www.itu.int/en/ITU-T/asn1/Pages/asn1_project.aspx">
 
-<!ENTITY url.cql "https://www.loc.gov/standards/sru/cql/">
+<!ENTITY url.cql "https://loc.gov/standards/sru/cql/">
 <!ENTITY url.cql.intro "https://zing.z3950.org/cql/intro.html">
 <!ENTITY url.cql.sorting "https://zing.z3950.org/cql/sorting.html">
 <!ENTITY url.zoom "https://zoom.z3950.org">

@@ -3,6 +3,9 @@
 
 <xsl:import href="http://docbook.sourceforge.net/release/xsl/current/htmlhelp/htmlhelp.xsl" />
 
+<xsl:template name="user.head.content">
+   <meta name="viewport" content="width=device-width, initial-scale=1"/>
+</xsl:template>
 <xsl:template name="body.attributes">
    <link rel="stylesheet" type="text/css" href="common/style1.css"/>
 </xsl:template>

@@ -190,6 +190,7 @@
 
 <!-- Operating Systems -->
 <!ENTITY url.linux.kernel "https://kernel.org">
+<!ENTITY url.archlinux "https://archlinux.org">
 <!ENTITY url.debian "https://debian.org">
 <!ENTITY url.redhat "https://redhat.com">
 <!ENTITY url.centos "https://centos.org">

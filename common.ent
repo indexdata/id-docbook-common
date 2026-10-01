@@ -154,11 +154,10 @@
 <!ENTITY url.icu.unicode.set "https://unicode-org.github.io/icu/userguide/strings/unicodeset.html">
 <!ENTITY url.icu.transform "https://unicode-org.github.io/icu/userguide/transforms/general/">
 <!ENTITY url.jing_trang "https://github.com/relaxng/jing-trang">
-<!ENTITY url.libxml2 "https://xmlsoft.org/">
-<!ENTITY url.libxml2.api "https://www.xmlsoft.org/html/index.html">
-<!ENTITY url.libxml2.api.tree "https://www.xmlsoft.org/html/libxml-tree.html">
-<!ENTITY url.libxslt "https://xmlsoft.org/XSLT/">
-<!ENTITY url.libxml2.download.windows "https://ftp.indexdata.com/pub/support/windows/">
+<!ENTITY url.libxml2 "https://gitlab.gnome.org/GNOME/libxml2">
+<!ENTITY url.libxml2.api "https://gnome.pages.gitlab.gnome.org/libxml2/html/">
+<!ENTITY url.libxml2.api.tree "https://gnome.pages.gitlab.gnome.org/libxml2/html/tree_8h.html">
+<!ENTITY url.libxslt "https://gitlab.gnome.org/GNOME/libxslt">
 <!ENTITY url.indexdata.support "https://ftp.indexdata.com/pub/support/">
 <!ENTITY url.indexdata.support.windows "https://ftp.indexdata.com/pub/support/windows/">
 <!ENTITY url.expat "https://libexpat.github.io">
